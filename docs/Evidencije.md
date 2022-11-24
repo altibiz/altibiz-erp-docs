@@ -1,7 +1,7 @@
 ## Evidencije(Knjige evidencija)
 
 
-![Evidencije](/images/evidencije.png "Evidencije")
+![Evidencije](../images/evidencije.png "Evidencije")
 
 **Put(1): Poslovanje → Dokumenti → Evidencije**
 

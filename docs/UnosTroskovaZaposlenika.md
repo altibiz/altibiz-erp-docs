@@ -2,7 +2,7 @@
 
 ### Unos troškova zaposlenika  
 
-[![Unos troškova zaposlenika](/images/unosTroskovaZaposlenika.png "Unos troškova zaposlenika")](/images/unosTroskovaZaposlenika.png)
+[![Unos troškova zaposlenika](../images/unosTroskovaZaposlenika.png "Unos troškova zaposlenika")](../images/unosTroskovaZaposlenika.png)
 
 **Put: Poslovanje → Financije → Troškovi zaposlenika**  
 

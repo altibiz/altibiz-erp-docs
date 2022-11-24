@@ -3,7 +3,7 @@
 
 ### Raspored resursa
 
-![Raspored resursa](/images/rasporedResursa.png "Raspored resursa")
+![Raspored resursa](../images/rasporedResursa.png "Raspored resursa")
 
 **Put: Poslovanje → Resursi → Raspored resursa**
 
@@ -55,7 +55,7 @@ Polje "**Datum**" služi za odabir početnog datuma početka željene aktivnosti
 
 16. U donjem gridu se nalaze stupci "**Vrsta resursa**" i "**Ukupno(Popunjeno/Potrebno)**" koji nam pokazuju koliko je od planiranih resursa dostupno/iskorišteno u odabranom "**Vremenskom periodu**“
 
-[![Raspored resursa](/images/rasporedResursa1.jpg "Raspored resursa")](/images/rasporedResursa1.jpg)
+[![Raspored resursa](../images/rasporedResursa1.jpg "Raspored resursa")](../images/rasporedResursa1.jpg)
 
 <br></br>
 <br></br>
@@ -63,7 +63,7 @@ Polje "**Datum**" služi za odabir početnog datuma početka željene aktivnosti
 
 ### Raspored resursa(sa oznakama)
 
-![Raspored resursa](/images/rasporedResursa.png "Raspored resursa")
+![Raspored resursa](../images/rasporedResursa.png "Raspored resursa")
 
 **Put: Poslovanje → Resursi → Raspored resursa**
 
@@ -118,6 +118,6 @@ Polje "**Datum**" služi za odabir početnog datuma početka željene aktivnosti
 16. U donjem gridu se nalaze stupci (**16**)"Vrsta resursa" i "Ukupno(Popunjeno/Potrebno)" koji nam pokazuju koliko je od planiranih resursa dostupno/iskorišteno u odabranom (**2**)"Vremenskom periodu"
 
 
-[![Raspored resursa](/images/rasporedResursa2.png "Raspored resursa")](/images/rasporedResursa2.png)
+[![Raspored resursa](../images/rasporedResursa2.png "Raspored resursa")](../images/rasporedResursa2.png)
  
 

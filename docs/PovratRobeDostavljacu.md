@@ -1,6 +1,6 @@
 # Povrat robe dobavljaču  
 
-![Povrat robe dobavljaču](/images/povratrobe.png "Povrat robe dobavljaču")  
+![Povrat robe dobavljaču](../images/povratrobe.png "Povrat robe dobavljaču")  
 
 **Put: Poslovanje → Nabava → Povrati Dobavljaču**  
 
@@ -55,5 +55,5 @@ Unosi se tečaj za monetu koja je prethodno unesena (* vrijedi za sve monete osi
 **Ukupna cijena** - popunjava se automatski tako što se množi količina artikla sa jediničnom cijenom(kn)/jediničnom cijenom u valuti
 povratrobe  
 
-[![Povrat robe dobavljaču](/images/povratrobe1.jpg "Povrat robe dobavljaču")](/images/povratrobe1.jpg)
+[![Povrat robe dobavljaču](../images/povratrobe1.jpg "Povrat robe dobavljaču")](../images/povratrobe1.jpg)
 

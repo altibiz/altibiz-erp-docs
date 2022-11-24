@@ -2,7 +2,7 @@
 
 ### Unos stavaka u katalog  
 
-![Katalog](/images/katalog.jpg "Katalog")
+![Katalog](../images/katalog.jpg "Katalog")
 
 **Put: Poslovanje -> Resursi -> Katalog**  
 

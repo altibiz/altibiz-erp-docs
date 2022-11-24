@@ -3,7 +3,7 @@
 
 ### Unos partnera
 
-![Partneri](/images/partneri.jpg "Partneri")
+![Partneri](../images/partneri.jpg "Partneri")
 
 **Put: Poslovanje → Resursi → Partneri**
 
@@ -64,7 +64,7 @@ Neki partneri mogu imati račune u više različitih banaka tako da ukoliko part
 ### Spajanje partnera
 
 
-[![Spoji partnere](/images/spojiPartnere.jpg "Spoji partnere")](/images/spojiPartnere.png)  
+[![Spoji partnere](../images/spojiPartnere.jpg "Spoji partnere")](../images/spojiPartnere.png)  
 
 **Put: Poslovanje → Resursi → Partneri → Spoji partnere**  
 
@@ -72,11 +72,11 @@ Neki partneri mogu imati račune u više različitih banaka tako da ukoliko part
 
 2. Nakon odabira partnera koje želimo spojiti odabiremo akciju “Spoji partnere”  
 
-[![Spoji partnere](/images/spojiPartnere1.png "Spoji partnere")](/images/spojiPartnere1.png)  
+[![Spoji partnere](../images/spojiPartnere1.png "Spoji partnere")](../images/spojiPartnere1.png)  
 
 3. Iz padajućeg izbornika izaberemo partnera koji će biti glavni tj. onog u kojeg želimo pridodati “starog” partnera i odaberemo OK
 
-[![Spoji partnere](/images/spojiPartnere2.png "Spoji partnere")](/images/spojiPartnere2.png)
+[![Spoji partnere](../images/spojiPartnere2.png "Spoji partnere")](../images/spojiPartnere2.png)
 
 * Podaci starog partnera ostaju na svim dokumentima prethodno generiranim prije spajanja partnera *  
 

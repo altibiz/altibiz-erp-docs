@@ -3,7 +3,7 @@
 ### Pregled planiranih/neplaniranih resursa
 
 
-![Iskorištenje](/images/iskoristenje.png "Iskoristenje")
+![Iskorištenje](../images/iskoristenje.png "Iskoristenje")
 
 **Put: Poslovanje → Resursi → Iskorištenje**
 
@@ -87,4 +87,4 @@ Prikazuje gantogram koji sadrži sve podatke u projektu prikazane u vremenskom o
 Prikazuje gantogram koji sadrži sve podatke o vrstama resursa i resursima koji su dodijeljeni kao aktivnost na projekt i grafički ih prikazuje u prethodno zadanom vremenskom okruženju
 
 
-[![Iskoristenje](/images/iskoristenje1.png "Iskoristenje")](/images/iskoristenje1.png)
+[![Iskoristenje](../images/iskoristenje1.png "Iskoristenje")](../images/iskoristenje1.png)
