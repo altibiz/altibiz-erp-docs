@@ -1,6 +1,6 @@
 site_name: AltiBiz Docs
 theme:
     name: material
-repo_url: https://altibiz.github.io/altibiz-erp-docs
+repo_url: https://github.com/altibiz/altibiz-erp-docs
 repo_name: altibiz-erp-docs
 edit_uri: edit/main/docs/
