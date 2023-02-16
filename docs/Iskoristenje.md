@@ -6,8 +6,6 @@
 ![Iskorištenje](../images/iskoristenje.png "Iskoristenje")
 
 
-![FeyJqStaMAEXu-B](https://user-images.githubusercontent.com/4034604/203806838-e312b6a8-6ca8-48f1-b211-e705045fdf53.jpg)
-
 **Put: Poslovanje → Resursi → Iskorištenje**
 
 U glavnom izborniku Iskorištenje se nalaze sljedeći filteri/polja/akcije:
