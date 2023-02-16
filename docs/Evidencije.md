@@ -1,23 +1,29 @@
-## Evidencije(Knjige evidencija)
+## <p align=center>**Evidencije(Knjige evidencija)**</p>
+
+[//]: # "align picture to center"
+<img src="../images/evidencije.png"
+     alt="Evidencije"
+     style="display: block;
+            margin-left: auto;
+            margin-right: auto;" 
+/>
 
 
-![Evidencije](../images/evidencije.png "Evidencije")
+**<p align=center>Put(1): Poslovanje → Dokumenti → Evidencije**
 
-**Put(1): Poslovanje → Dokumenti → Evidencije**
-
-**Put(2): Poslovanje → Projekt → Dodaj(+) → Odjel → Dokument/Knjiga**  
+**<p align=center>Put(2): Poslovanje → Projekt → Dodaj(+) → Odjel → Dokument/Knjiga**  
 
  
-
-### TEHNIČKI URED  
-
 <br></br>
+<hr>
+
+### <p align=center>**TEHNIČKI URED** 
 
 
-**<span style="color:#ff5630">Knjiga projekata / Projektna dokumentacija</span> **  
+**<p align=center><span style="color:#ff5630">Knjiga projekata / Projektna dokumentacija**  
 
-|   R.B	|   Broj projekta	|   Broj tehničke dokumentacije	|   Naručitelj	|   Opis projekta	|   Inačica	|   Br. listova	|   Registrator	|   Datum	|   Potpis	|  
-|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|
+| R.B	| Broj projekta	| Broj tehničke dokumentacije	| Naručitelj | Opis projekta	| Inačica	| Br. listova	| Registrator	| Datum	| Potpis	|  
+|-|-|-|-|-|-|-|-|-|-|
 
 
 **R.B**  
@@ -59,21 +65,18 @@
 **Potpis**
 -> Defaultno ime korisnika koji je unio zapisnik/dokumentaciju (automatski)
 
-<br></br>
-<br></br>
-<br></br>
 
-
-
-### ODJEL ISPITIVANJA  
 
 <br></br>
+<hr>
+
+### <p align=center>**ODJEL ISPITIVANJA**  
 
 
-**<span style="color:#ff5630">Knjiga zapisnika o ispitivanju</span>**
+**<p align=center><span style="color:#ff5630">Knjiga zapisnika o ispitivanju**
 
-|   R.B	|   Broj projekta	|   Broj zapisnika	|   Naručitelj	|   Opis predmeta	|   Registrator	|   Datum	|   Potpis	|  
-|---	|---	|---	|---	|---	|---	|---	|---	|
+| R.B	| Broj projekta	| Broj zapisnika	| Naručitelj	| Opis predmeta	| Registrator	| Datum	| Potpis |  
+|-|-|-|-|-|-|-|-|
 
 **R.B**
 -> Generira se po trenutnom redoslijedu (automatski)
@@ -114,10 +117,10 @@
 
 -> Defaultno ime korisnika koji je unio zapisnik/dokumentaciju (automatski)
 
-<br></br>
-<br></br>
+<br>
+<hr>
 
-**<span style="color:#ff5630">Knjiga proizvoda</span>**
+**<p align=center><span style="color:#ff5630">Knjiga proizvoda**
 
 | R.B | Broj Projekta | Serijski broj | Naručitelj | Opis proizvoda | Datum | Potpis |
 |---|---|---|---|---|---|---|
@@ -154,10 +157,10 @@
 
 -> Defaultno ime korisnika koji je unio zapisnik/dokumentaciju (automatski)
 
-<br></br>
-<br></br>
+<br>
+<hr>
 
-**<span style="color:#006644">Knjiga izjava o sukladnosti</span>**
+**<p align=center><span style="color:#ff5630">Knjiga izjava o sukladnosti**
 
 | R.B | Broj Projekta | Broj izjave | Naručitelj | Opis proizvoda | Serijski broj | Datum | Potpis |
 |---|---|---|---|---|---|---|---|
@@ -207,7 +210,15 @@
 -> Defaultno ime korisnika koji je unio zapisnik/dokumentaciju (automatski)
 
 
+<br></br>
+<hr>
+  
+### <p align=center>**ODJEL ZAŠTITE NA RADU**
 
-### ODJEL ZAŠTITE NA RADU
+<br></br>
+<hr>
 
-### ODJEL ENERGETSKE UČINKOVITOSTI
+### <p align=center>**ODJEL ENERGETSKE UČINKOVITOSTI**
+
+
+<br></br><br></br>

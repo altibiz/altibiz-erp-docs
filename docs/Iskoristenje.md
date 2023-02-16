@@ -1,12 +1,16 @@
 # Iskorištenje
 
-### Pregled planiranih/neplaniranih resursa
+### <p align=center>**Pregled planiranih/neplaniranih resursa**
+
+<img src="../images/iskoristenje.png"
+     alt="Iskorištenje"
+     style="display: block;
+            margin-left: auto;
+            margin-right: auto;" 
+/>
 
 
-![Iskorištenje](../images/iskoristenje.png "Iskoristenje")
-
-
-**Put: Poslovanje → Resursi → Iskorištenje**
+**<p align=center>Put: Poslovanje → Resursi → Iskorištenje**
 
 U glavnom izborniku Iskorištenje se nalaze sljedeći filteri/polja/akcije:
 
@@ -24,7 +28,7 @@ U glavnom izborniku Iskorištenje se nalaze sljedeći filteri/polja/akcije:
 
     Vrste stanja:  Razmatranje, Nuđenje, Izvođenje, Razvoj
 
-4. Padajući izbornik “V**jerojatnost ugovaranja**“ nudi odabir vjerojatnosti ugovaranja nekog projekta
+4. Padajući izbornik “**Vjerojatnost ugovaranja**“ nudi odabir vjerojatnosti ugovaranja nekog projekta
 
     Vrste ugovaranja: Vjerojatnost 100%, Vjerojatnost od 60 do 80%, Vjerojatnost manja od 50%
 
@@ -46,10 +50,9 @@ U glavnom izborniku Iskorištenje se nalaze sljedeći filteri/polja/akcije:
 
 11. Akcija „**Ukloni Filter**“ služi za brisanje svih prethodno odabranih polja za praćenje aktivnosti na projektima
 
-<br></br>
-<br></br>  
+<br> 
 
-– **Grid 1** –
+**<p align=center>– Grid 1 – </p>**
 
 Stupac „**Naziv**“ prikazuje broj i ime projekta koji se prikazuje
 
@@ -69,23 +72,29 @@ Stupac „**ChangeBy**“ prikazuje promjenu na kalkulacijskom djelu projekta
 
  
 
-– **Grid 2** –
+**<p align=center>– Grid 2 – </p>**
 
 Stupac „**Resurs**“ prikazuje vrstu usluga/radova koji se izvode
 
 Stupac „**Vrsta resursa**“ prikazuje radno mjesto koje izvodi vrstu usluga/radova
 
  
-
-– **Gant 1** –
+**<p align=center>– Gant 1 – </p>**
 
 Prikazuje gantogram koji sadrži sve podatke u projektu prikazane u vremenskom okruženju(prikazuje ih grafički) koje sadrži detaljne podatke o satima,danima,tjednima,mjesecima i godinama radi lakšeg praćenja projekata
 
  
-
-– **Gant 2** –
+**<p align=center>– Gant 2 – </p>**
 
 Prikazuje gantogram koji sadrži sve podatke o vrstama resursa i resursima koji su dodijeljeni kao aktivnost na projekt i grafički ih prikazuje u prethodno zadanom vremenskom okruženju
 
 
-[![Iskoristenje](../images/iskoristenje1.png "Iskoristenje")](../images/iskoristenje1.png)
+<img src="../images/iskoristenje1.png"
+     alt="Iskorištenje"
+     style="display: block;
+            margin-left: auto;
+            margin-right: auto;" 
+/>
+
+
+<br></br><br></br>
