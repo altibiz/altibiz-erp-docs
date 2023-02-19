@@ -1,59 +1,64 @@
 # Povrat robe dobavljaču  
 
-![Povrat robe dobavljaču](../images/povratrobe.png "Povrat robe dobavljaču")  
+### <p align=center>**Povrat robe dobavljaču**  
 
-**Put: Poslovanje → Nabava → Povrati Dobavljaču**  
+<img src="../images/povratrobe.png"
+    alt="Povrat robe dobavljaču"
+    style="display: block;
+            margin-left: auto;
+            margin-right: auto;" 
+/>
 
-**1. PROJEKT** <span style="color:#ff5630">(*obavezno polje*)</span>  
+**<p align=center>Put: Poslovanje → Nabava → Povrati Dobavljaču**   
 
-Iz padajućeg izbornika se odabire projekt na koji je krivo isporučen neodgovarajući materijal/oprema od onoga koji je prvobitno naručen
+1. **PROJEKT (<span style="color: #ff5630">\*obavezno polje\*</span>)**     
+    Iz padajućeg izbornika se odabire projekt na koji je krivo isporučen neodgovarajući materijal/oprema od onoga koji je prvobitno naručen
 
-**2. ŠIFRA** <span style="color:#ff5630">(* automatski se generira prilikom kreiranja povrata robe dobavljaču *)</span>  
+2. **ŠIFRA (<span style="color: #ff5630">\*automatski se generira prilikom kreiranja povrata robe dobavljaču\*</span>)**    
 
-**3. DATUM POVRATKA DOBAVLJAČU**  
+3. **DATUM POVRATKA DOBAVLJAČU**        
+    Odabire se datum kreiranja dokumenta povrat robe dobavljaču(PRD)
 
-Odabire se datum kreiranja dokumenta povrat robe dobavljaču(PRD)
+4. **DOBAVLJAČ (<span style="color: #ff5630">\*obavezno polje\*</span>)**       
+    Iz padajućeg izbornika odabire se dobavljač koji je isporučio neodgovarajući materijal/opremu
 
-**4. DOBAVLJAČ** <span style="color:#ff5630">(*obavezno polje*)</span>  
+5. **IZRADIO**      
+    Iz padajućeg izbornika se odabire osoba koja radi povrat robe dobavljaču 
 
- Iz padajućeg izbornika odabire se dobavljač koji je isporučio neodgovarajući materijal/opremu
+6. **JEZIK**    
+    Iz padajućeg izbornika se odabire jezik predloška(hrvatski, engleski...) ovisno o tome iz koje zemlje je dobavljač
 
-**5. IZRADIO**  
+7. **MONETA**   
+    Iz padajućeg izbornika se odabire željena moneta
 
- Iz padajućeg izbornika se odabire osoba koja radi povrat robe dobavljaču 
+8. **TEČAJ ODABRANE VALUTE**    
+    Unosi se tečaj za monetu koja je prethodno unesena (\*vrijedi za sve monete osim kn*) 
 
-**6. JEZIK**  
+9. **PROIZVODI**  
 
-Iz padajućeg izbornika se odabire jezik predloška(hrvatski, engleski...) ovisno o tome iz koje zemlje je dobavljač
+    **Redni broj** - automatski se generira ovisno o broju stavaka
 
-**7. MONETA**  
+    **Naziv** - upisuje se ime materijala/opreme koja se vrača dobavljaču a ne nalazi se u katalogu
 
-Iz padajućeg izbornika se odabire željena moneta
+    **Naziv artikla** - iz padajućeg izbornika se odabire materijal/oprema koja se vrača dobavljaču a nalazi se u katalogu
 
-**8. TEČAJ ODABRANE VALUTE**  
+    **Količina** - ukupan broj materijala/opreme koji se vrača dobavljaču
 
-Unosi se tečaj za monetu koja je prethodno unesena (* vrijedi za sve monete osim kn *) 
+    **Jedinična cijena(kn)** - upisuje se jedinična cijena u kunama
 
-**9. PROIZVODI**  
+    **Jedinična cijena u valuti** - upisuje se jedinična cijena u moneti koja je prethodno odabrana
 
-**Redni broj** - automatski se generira ovisno o broju stavaka
+    **Jedinica mjere** - upisuje se jedinica mjere ovisno o vrsti materijala/opreme koji se vrača
 
-**Naziv** - upisuje se ime materijala/opreme koja se vrača dobavljaču a ne nalazi se u katalogu
+    **Tip** – jedinstvena šifra proizvođača
 
-**Naziv artikla** - iz padajućeg izbornika se odabire materijal/oprema koja se vrača dobavljaču a nalazi se u katalogu
+    **Ukupna cijena** - popunjava se automatski tako što se množi količina artikla sa jediničnom cijenom(kn)/jediničnom cijenom u valuti  
 
-**Količina** -ukupan broj materijala/opreme koji se vrača dobavljaču
-
-**Jedinična cijena(kn)** - upisuje se jedinična cijena u kunama
-
-**Jedinična cijena u valuti** - upisuje se jedinična cijena u moneti koja je prethodno odabrana
-
-**Jedinica mjere** - upisuje se jedinica mjere ovisno o vrsti materijala/opreme koji se vrača
-
-**Tip** – jedinstvena šifra proizvođača
-
-**Ukupna cijena** - popunjava se automatski tako što se množi količina artikla sa jediničnom cijenom(kn)/jediničnom cijenom u valuti
-povratrobe  
-
-[![Povrat robe dobavljaču](../images/povratrobe1.jpg "Povrat robe dobavljaču")](../images/povratrobe1.jpg)
-
+    <img src="../images/povratrobe1.jpg"
+        alt="Povrat robe dobavljaču"
+        style="display: block;
+                margin-left: auto;
+                margin-right: auto;" 
+    />
+    
+<br></br><br></br>
