@@ -25,7 +25,7 @@
 5. **PROJEKT (<span style="color: #ff5630">\*obavezno polje\*</span>)**     
     Iz padajućeg izbornika se odabire broj projekta na koji se odnosi radno vrijeme, padajućem izborniku postoje 2 taba "Moje aktivnosti" i "Projekti"
 
-    <ins>Moje aktivnosti</ins> - prikazuje projekte na kojima se nalazi korisnik u nekim od projektnih uloga 
+    <ins>Moje aktivnosti</ins> - prikazuje projekte na kojima se nalazi korisnik u nekim od projektnih uloga    
     <ins>Projekti</ins> - prikazuje sve projekte koji su trenutno aktivni
     
 6. **TEREN**        

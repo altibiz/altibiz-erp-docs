@@ -17,24 +17,19 @@
 
 1. Polje "**Datum**" služi za odabir početnog datuma početka željene aktivnosti, nakon toga pritisnemo gumb "Prikaži raspon" i ovisno o odabranom "**Periodu rasporeda**" na gornjoj desnoj strani ekrana nam se prikazuje odabrani period
 
-2. Polje "**Period rasporeda**" nudi prikaz trajanja aktivnosti koji može biti 7,14, 21 ili 28 dana
+2. Polje "**Period rasporeda**" nudi prikaz trajanja aktivnosti koji može biti 7, 14, 21 ili 28 dana
 
 3. Polje "**VP**" nudi odabir voditelja projekta čije aktivnosti želimo vidjeti
 
 4. Polje "**Vrsta resursa**" nudi odabir prikaza vrste resursa/ljudi koji su nam u tom trenutku potrebni
 
-5. Funkcije vremenskih polja
-    Prethodno razdoblje – vraća vremenski period unatrag za odabrani "**Period rasporeda**"
-
-    Prethodni tjedan - vraća vremenski period unazad u trajanju od 7 dana
-
-    Prethodni dan - vraća vremenski unazad za 1 dan
-
-    Sljedeći dan – postavlja vremenski period sa tekućeg/trenutnog na slijedeći dan
-
-    Sljedeći tjedan – pomiče vremenski period unaprijed u trajanju od 7 dana
-
-    Sljedeće razdoblje - pomiče vremenski period unaprijed za odabrani "Period rasporeda"
+5. Funkcije vremenskih polja    
+    - Prethodno razdoblje – vraća vremenski period unatrag za odabrani "**Period rasporeda**"
+    - Prethodni tjedan - vraća vremenski period unazad u trajanju od 7 dana
+    - Prethodni dan - vraća vremenski unazad za 1 dan
+    - Sljedeći dan – postavlja vremenski period sa tekućeg/trenutnog na slijedeći dan
+    - Sljedeći tjedan – pomiče vremenski period unaprijed u trajanju od 7 dana 
+    - Sljedeće razdoblje - pomiče vremenski period unaprijed za odabrani "**Period rasporeda**"
 
 6. U gridu "**Vrsta resursa**" imamo pregled  naziva/imena samih resursa koje dodjeljujemo na željenu aktivnost i  broj projekta na koji je taj resurs dodijeljen
 
@@ -70,7 +65,7 @@
 />
 
 <br></br>
-<hr>
+- - -
 
 ### <p align=center>**Raspored resursa(sa oznakama)**
 
@@ -83,27 +78,21 @@
 
 **<p align=center>Put: Poslovanje → Resursi → Raspored resursa**
 
-1. Polje (**1**) "Datum" služi za odabir početnog datuma početka željene aktivnosti, nakon toga pritisnemo gumb "Prikaži raspon" i ovisno o odabranom (**2**)"Periodu rasporeda" na gornjoj desnoj strani ekrana nam se prikazuje odabrani period
+1. Polje (**1**) "Datum" služi za odabir početnog datuma početka željene aktivnosti, nakon toga pritisnemo gumb "Prikaži raspon" i ovisno o odabranom (**2**) "Periodu rasporeda" na gornjoj desnoj strani ekrana nam se prikazuje odabrani period
 
-2. Polje (**2**) "Period rasporeda" nudi prikaz trajanja aktivnosti koji može biti 7,14, 21 ili 28 dana
+2. Polje (**2**) "Period rasporeda" nudi prikaz trajanja aktivnosti koji može biti 7, 14, 21 ili 28 dana
 
 3. Polje (**3**) "VP" nudi odabir voditelja projekta čije aktivnosti želimo vidjeti
 
 4. Polje (**4**) "Vrsta resursa" nudi odabir prikaza vrste resursa/ljudi koji su nam u tom trenutku potrebni
 
 5. Funkcije vremenskih polja (**5**)
-
-    Prethodno razdoblje – vraća vremenski period unatrag za odabrani (**2**) "Period rasporeda"
-
-    Prethodni tjedan - vraća vremenski period unazad u trajanju od 7 dana
-
-    Prethodni dan - vraća vremenski unazad za 1 dan
-
-    Sljedeći dan – postavlja vremenski period sa tekućeg/trenutnog na slijedeći dan
-
-    Sljedeći tjedan – pomiče vremenski period unaprijed u trajanju od 7 dana
-
-    Sljedeće razdoblje - pomiče vremenski period unaprijed za odabrani (**2**) "Period rasporeda"
+    - Prethodno razdoblje – vraća vremenski period unatrag za odabrani (**2**) "Period rasporeda"
+    - Prethodni tjedan - vraća vremenski period unazad u trajanju od 7 dana
+    - Prethodni dan - vraća vremenski unazad za 1 dan
+    - Sljedeći dan – postavlja vremenski period sa tekućeg/trenutnog na slijedeći dan
+    - Sljedeći tjedan – pomiče vremenski period unaprijed u trajanju od 7 dana
+    - Sljedeće razdoblje - pomiče vremenski period unaprijed za odabrani (**2**) "Period rasporeda"
 
 
 6. U gridu(**6**) "Vrsta resursa" imamo pregled (**6.1**) naziva/imena samih resursa koje dodjeljujemo na željenu aktivnost i (**6.2**) broj projekta na koji je taj resurs dodijeljen
@@ -128,7 +117,7 @@
 
 14. Stupac (**14**) "Voditelj projekta" prikazuje osobu koja je zadužena za vođenje određenog projekta
 
-15. Stupci (**15**)"Početak" i "Kraj" označuju početni i završni dio planirane aktivnosti na projektu
+15. Stupci (**15**) "Početak" i "Kraj" označuju početni i završni dio planirane aktivnosti na projektu
 
 16. U donjem gridu se nalaze stupci (**16**) "Vrsta resursa" i "Ukupno(Popunjeno/Potrebno)" koji nam pokazuju koliko je od planiranih resursa dostupno/iskorišteno u odabranom (**2**) "Vremenskom periodu"
 

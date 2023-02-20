@@ -10,7 +10,7 @@
 />
 
 
-**<p align=center>Put: Poslovanje -> Resursi -> Katalog**  
+**<p align=center>Put: Poslovanje → Resursi → Katalog**  
 
 1. **NAZIV (<span style="color: #ff5630">\*obavezno polje\*</span>)**   
 Unosimo naziv/ime elementa kataloga kojega dodajemo
@@ -34,6 +34,6 @@ Unos jedinice mjere koja je mjerodavna za navedeni element kataloga
 Odabir predefiniranih kategorija u koju ovaj element kataloga pripada
 
 7. **PRETPOSTAVLJENI DOBAVLJAČ**    
-Odabir dobavljača koji se najčešće koristi , element kataloga može imati više različitih dobavljača
+Odabir dobavljača koji se najčešće koristi, element kataloga može imati više različitih dobavljača
 
 <br></br><br></br>

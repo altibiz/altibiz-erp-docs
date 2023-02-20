@@ -15,12 +15,12 @@
 
 1. **OIB/VAT No. (<span style="color: #ff5630">\*obavezno polje\*</span>)**     
 OIB koriste partneri koji su u hrvatskoj i mora sadržavati točno 11 znamenaka  
-VAT No koriste strani partneri(partneri koji se nalaze izvan RH) oznaka najcešće započinje sa inicijalima države gdje je partner registriran (ATU12345678 ,SI12345678) ali mogu biti i samo brojčane
+VAT No koriste strani partneri(partneri koji se nalaze izvan RH) oznaka najčešće započinje sa inicijalima države gdje je partner registriran (ATU12345678, SI12345678) ali mogu biti i samo brojčane
 
 2. **NAZIV (<span style="color: #ff5630">\*obavezno polje\*</span>)**   
 Ispravan "Naziv partnera" se pomoću ispravnog OIBA kopira sa stranice  
-Sudski registar ( https://sudreg.pravosudje.hr/registar/f?p=150:1 ) ili preko  
-Obrtnog registra ( https://or.portor.hr/pretraga.htm )
+Sudski registar ( <span style="color: #0052cc">https://sudreg.pravosudje.hr/registar/f?p=150:1</span> ) ili preko  
+Obrtnog registra ( <span style="color: #0052cc">https://or.portor.hr/pretraga.htm</span> )
 
 3. **VRSTA PARTNERA (<span style="color: #ff5630">\*obavezno polje\*</span>)**  
 Vrstu partnera(koja se nalazi u šifarniku "Vrsta Partnera" odabiremo prema slijedećem opisu:  
@@ -37,12 +37,12 @@ Ostalo - Ostali partneri
 Partner A - Naručitelj/Dobavljač > 500.000kn/god.  
 Partner B - Naručitelj/Dobavljač > 100.000kn/god.  
 Partner C - Naručitelj/Dobavljač < 100.000kn/god.  
-Pošiljatelj upita/Javna nabava - Pošiljatelj upita, natječaj po JN,potencijalni naručitelj  
+Pošiljatelj upita/Javna nabava - Pošiljatelj upita, natječaj po JN, potencijalni naručitelj  
 Proizvođač - Proizvođač opreme  
-Vanjski suradnik - Vanjski suradnik/kooperant(izvođenje usluga)  
+Vanjski suradnik - Vanjski suradnik/kooperant (izvođenje usluga)  
 
 4. **PROIZVOĐAČ / DOBAVLJAČ**   
-Ovisno o vrsti partnera on može biti samo "Proizvođač" ili samo "Dobavljač" ali može biti i oboje
+Ovisno o vrsti partnera on može biti samo "Proizvođač" ili samo "Dobavljač" ali može biti i oboje   
 Ako za navedenog partnera odaberemo da je on "Dobavljač" onda tog istog partnera možemo odabrati kao dobavljača u Praćenju projekta
 
 5. **E-MAIL ADRESA ZA E-RAČUN**     
@@ -67,7 +67,7 @@ Neki partneri mogu imati više kontakt osoba ovisno o poziciji/mjestu rada koji 
 Neki partneri mogu imati račune u više različitih banaka tako da ukoliko partner ima više računa odaberemo "defaultni" račun koji se najčešće koristi  
 
 <br></br>
-<hr>
+- - -
 
 ### <p align=center>**Spajanje partnera**
 
@@ -90,7 +90,7 @@ Neki partneri mogu imati račune u više različitih banaka tako da ukoliko part
         style="display: block;
                 margin-left: auto;
                 margin-right: auto;" 
-    />
+    />  
 
 3. Iz padajućeg izbornika izaberemo partnera koji će biti glavni tj. onog u kojeg želimo pridodati “starog” partnera i odaberemo OK
 

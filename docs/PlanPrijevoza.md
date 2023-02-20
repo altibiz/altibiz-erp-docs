@@ -17,7 +17,7 @@
 
 3. **IZMIJENIO** (\**popunjava se automatski ako sam korisnik ili neki drugi korisnik radi izmjene na prvobitnom zahtjevu**)
 
-4. **DATUM PRIJEVOZA (<span style="color: #ff5630">\*obavezno polje\*</span>)** 
+4. **DATUM PRIJEVOZA (<span style="color: #ff5630">\*obavezno polje\*</span>)**      
     Iz padajućeg izbornika se odabire željeni datum za kada je potreban prijevoz
 
 5. **PROJEKT**  
@@ -26,7 +26,7 @@
 
     U padajućem izborniku postoje 2 taba "Moje aktivnosti" i "Projekti"
 
-    <ins>Moje aktivnosti</ins> - prikazuje projekte na kojima se nalazi korisnik u nekim od projektnih uloga 
+    <ins>Moje aktivnosti</ins> - prikazuje projekte na kojima se nalazi korisnik u nekim od projektnih uloga    
     <ins>Projekti</ins> - prikazuje sve projekte koji nisu arhivirani
 
 6. **PROCJENA TRAJANJA(H)** (\**popunjava se automatski ako se popune polja "OD" i "DO"**)  
@@ -51,5 +51,6 @@
 
 13. **POŠALJI**  
     Označavanjem checkboxa „Pošalji“ i nakon toga akcije „Prihvati“ plan prijevoza se šalje vozaču, ako se ne želi poslati obavijest vozaču checkbox „Pošalji“ ostaje prazan
+
 
 <br></br><br></br>

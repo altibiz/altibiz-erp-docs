@@ -78,10 +78,11 @@ Stupac „**Resurs**“ prikazuje vrstu usluga/radova koji se izvode
 
 Stupac „**Vrsta resursa**“ prikazuje radno mjesto koje izvodi vrstu usluga/radova
 
- 
+ <br>
+
 **<p align=center>– Gant 1 – </p>**
 
-Prikazuje gantogram koji sadrži sve podatke u projektu prikazane u vremenskom okruženju(prikazuje ih grafički) koje sadrži detaljne podatke o satima,danima,tjednima,mjesecima i godinama radi lakšeg praćenja projekata
+Prikazuje gantogram koji sadrži sve podatke u projektu prikazane u vremenskom okruženju (prikazuje ih grafički) koje sadrži detaljne podatke o satima, danima, tjednima, mjesecima i godinama radi lakšeg praćenja projekata
 
  
 **<p align=center>– Gant 2 – </p>**

@@ -23,13 +23,13 @@ Unutar izbornika “**Informacije**” nalazi se tab “**Rezultati nadmetanja**
 <br></br>
 
 
-<hr>
+- - -
 
 
 
 ### <p align=center>**Praćenje rezultata nadmetanja**
 
-**<p align=center>Put: Izvješća -> Ponuda -> Praćenje rezultata nadmetanja**  
+**<p align=center>Put: Izvješća → Ponuda → Praćenje rezultata nadmetanja**  
 
 Izvješće “Praćenje rezultata nadmetanja” omogućava pregled i analizu svih projekata(koji su prethodno uneseni) na koje se Helb prijavio u odnosu na ostale ponuditelje
 
