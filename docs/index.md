@@ -1,6 +1,6 @@
-# Welcome to Altibiz Helpdesk
+#Dobrodošli u Altibiz Helpdesk
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Za kompletnu dokumentaciju posjetite stranicu [Altibiz Helpdesk](https://altibiz.github.io/altibiz-erp-docs/).
 
 ## Commands
 
