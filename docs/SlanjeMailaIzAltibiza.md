@@ -28,5 +28,9 @@
 
    3. Ovisno o tome koju smo projektnu ulogu odabrali otvara nam se defaultni program za slanje maila sa e-mail adresom člana tima koji se nalazi iza odabrane projektne uloge.
 
+<a href="../documents/Slanje maila iz Altibiza(projekta).pdf" target="_blank">
+    <img src="../images/pdf.png" alt="Download link Slanje maila iz Altibiza(projekta).pdf" style="width:50px;height:50px;vertical-align:middle">
+    <font size="2">Slanje maila iz Altibiza(projekta).pdf</font>
+</a>
 
 <br></br><br></br>

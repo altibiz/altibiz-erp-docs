@@ -43,4 +43,10 @@
 
 13. **OSNOVICA U VALUTI** ( \*rezultat množenja „Jedinične cijene u valuti“ x „Količine“ *)
 
+<a href="../documents/Izdavanje sa skladišta.pdf" target="_blank">
+    <img src="../images/pdf.png" alt="Download link Izdavanje sa skladišta.pdf" style="width:50px;height:50px;vertical-align:middle">
+    <font size="2">Izdavanje sa skladišta.pdf</font>
+</a>
+
+
 <br></br><br></br>

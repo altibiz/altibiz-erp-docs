@@ -36,4 +36,10 @@ Odabir predefiniranih kategorija u koju ovaj element kataloga pripada
 7. **PRETPOSTAVLJENI DOBAVLJAČ**    
 Odabir dobavljača koji se najčešće koristi, element kataloga može imati više različitih dobavljača
 
+
+<a href="../documents/Pravilan unos stavaka u katalog.pdf" target="_blank">
+    <img src="../images/pdf.png" alt="Download link Pravilan unos stavaka u katalog.pdf" style="width:50px;height:50px;vertical-align:middle">
+    <font size="2">Pravilan unos stavaka u katalog.pdf</font>
+</a>
+
 <br></br><br></br>

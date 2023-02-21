@@ -60,4 +60,9 @@
             margin-right: auto;" 
 />
 
+<a href="../documents/Pravilan unos radnih sati.pdf" target="_blank">
+    <img src="../images/pdf.png" alt="Download link Pravilan unos radnih sati.pdf" style="width:50px;height:50px;vertical-align:middle">
+    <font size="2">Pravilan unos radnih sati.pdf</font>
+</a>
+
 <br></br><br></br>

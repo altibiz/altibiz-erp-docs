@@ -89,13 +89,17 @@ Prikazuje gantogram koji sadrži sve podatke u projektu prikazane u vremenskom o
 
 Prikazuje gantogram koji sadrži sve podatke o vrstama resursa i resursima koji su dodijeljeni kao aktivnost na projekt i grafički ih prikazuje u prethodno zadanom vremenskom okruženju
 
-
 <img src="../images/iskoristenje1.png"
      alt="Iskorištenje"
      style="display: block;
             margin-left: auto;
             margin-right: auto;" 
 />
+
+<a href="../documents/Pregled planiranihneplaniranih resursa.pdf" target="_blank">
+    <img src="../images/pdf.png" alt="Download link Pregled planiranih/neplaniranih resursa.pdf" style="width:50px;height:50px;vertical-align:middle">
+    <font size="2">Pregled planiranih/neplaniranih resursa.pdf</font>
+</a>
 
 
 <br></br><br></br>

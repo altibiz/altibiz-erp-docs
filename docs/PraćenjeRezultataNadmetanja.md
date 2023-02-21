@@ -20,9 +20,13 @@ Unutar izbornika “**Informacije**” nalazi se tab “**Rezultati nadmetanja**
             margin-right: auto;" 
 />
 <p align=center>*Omogućen je unos i pregled ponuditelja u fazi <strong>nuđenja</strong> na svim projektima na koje se Helb prijavio*</p>
+
+<a href="../documents/Unos rezultata nadmetanja.pdf" target="_blank">
+    <img src="../images/pdf.png" alt="Download link Unos rezultata nadmetanja.pdf" style="width:50px;height:50px;vertical-align:middle">
+    <font size="2">Unos rezultata nadmetanja.pdf</font>
+</a>
+
 <br></br>
-
-
 - - -
 
 
@@ -51,5 +55,9 @@ Izvješće sadrži sljedeće kolone nužne za usporedbu:
             margin-right: auto;"
 />	
 
+<a href="../documents/Praćenje rezultata nadmetanja.pdf" target="_blank">
+    <img src="../images/pdf.png" alt="Download link Praćenje rezultata nadmetanja.pdf" style="width:50px;height:50px;vertical-align:middle">
+    <font size="2">Praćenje rezultata nadmetanja.pdf</font>
+</a>
 
 <br></br><br></br>

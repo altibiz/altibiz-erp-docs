@@ -11,8 +11,6 @@
             margin-right: auto;" 
 />
 
-
-
 **<p align=center>Put: Poslovanje → Resursi → Raspored resursa</p>** 
 
 1. Polje "**Datum**" služi za odabir početnog datuma početka željene aktivnosti, nakon toga pritisnemo gumb "Prikaži raspon" i ovisno o odabranom "**Periodu rasporeda**" na gornjoj desnoj strani ekrana nam se prikazuje odabrani period
@@ -63,6 +61,11 @@
             margin-left: auto;
             margin-right: auto;" 
 />
+
+<a href="../documents/Raspored resursa(bez oznaka).pdf" target="_blank">
+    <img src="../images/pdf.png" alt="Download link Raspored resursa(bez oznaka).pdf" style="width:50px;height:50px;vertical-align:middle">
+    <font size="2">Raspored resursa(bez oznaka).pdf</font>
+</a>
 
 <br></br>
 - - -
@@ -128,5 +131,9 @@
             margin-right: auto;" 
 />
  
+<a href="../documents/Raspored resursa(sa oznakama).pdf" target="_blank">
+    <img src="../images/pdf.png" alt="Download link Raspored resursa(sa oznakama).pdf" style="width:50px;height:50px;vertical-align:middle">
+    <font size="2">Raspored resursa(sa oznakama).pdf</font>
+</a>
 
 <br></br><br></br>

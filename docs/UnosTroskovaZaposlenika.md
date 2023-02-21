@@ -57,5 +57,10 @@ Ukoliko je trošak plaćen u moneti koja nije kn , potrebno je unijeti tečaj za
 <p align=center><span style="color: #97a0af">*Tečaj se može provjeriti na stranici <span style="color:#0052cc">https://www.hnb.hr/temeljne-funkcije/monetarna-politika/tecajna-lista/tecajna-lista</span>*</span></p>
 
 
+<a href="../documents/Pravilan unos troškova zaposlenika.pdf" target="_blank">
+    <img src="../images/pdf.png" alt="Download link Pravilan unos troškova zaposlenika.pdf" style="width:50px;height:50px;vertical-align:middle">
+    <font size="2">Pravilan unos troškova zaposlenika.pdf</font>
+</a>
+
 
 <br></br><br></br>

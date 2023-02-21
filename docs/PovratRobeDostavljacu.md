@@ -54,11 +54,16 @@
 
     - **Ukupna cijena** - popunjava se automatski tako što se množi količina artikla sa jediničnom cijenom(kn)/jediničnom cijenom u valuti  
 
-    <img src="../images/povratrobe1.jpg"
-        alt="Povrat robe dobavljaču"
-        style="display: block;
-                margin-left: auto;
-                margin-right: auto;" 
-    />
+<img src="../images/povratrobe1.jpg"
+    alt="Povrat robe dobavljaču"
+    style="display: block;
+            margin-left: auto;
+            margin-right: auto;" 
+/>
+
+<a href="../documents/Povrat robe dobavljaču.pdf" target="_blank">
+    <img src="../images/pdf.png" alt="Download link Povrat robe dobavljaču.pdf" style="width:50px;height:50px;vertical-align:middle">
+    <font size="2">Povrat robe dobavljaču.pdf</font>
+</a>
     
 <br></br><br></br>
