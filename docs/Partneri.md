@@ -3,7 +3,7 @@
 
 ### <p align=center>**Unos partnera**
 
-<img src="../images/partneri.jpg"
+<img src="../images/Partneri.JPG"
      alt="Partneri"
      style="display: block;
             margin-left: auto;
