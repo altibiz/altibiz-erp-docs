@@ -84,6 +84,14 @@ Stupac „**Vrsta resursa**“ prikazuje radno mjesto koje izvodi vrstu usluga/r
 
 Prikazuje gantogram koji sadrži sve podatke u projektu prikazane u vremenskom okruženju (prikazuje ih grafički) koje sadrži detaljne podatke o satima, danima, tjednima, mjesecima i godinama radi lakšeg praćenja projekata
 
+Desni klik na horizontalni stupac aktivnosti otvara meni sa "dodaj podelement". To otvara dijalog za dodavanje aktivnosti koji je filtrirane na vrste radova koji su podaktivnosti odabranog stupca
+
+<img src="../images/iskoristenje2.png"
+     alt="Iskorištenje"
+     style="display: block;
+            margin-left: auto;
+            margin-right: auto;" 
+/>
  
 **<p align=center>– Gant 2 – </p>**
 
