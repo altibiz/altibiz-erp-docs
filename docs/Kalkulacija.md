@@ -1,5 +1,3 @@
-<div id="print">
-
 # Kalkulacija  
 
 ### <p align=center>**Dodavanje nove kalkulacije**  
@@ -20,7 +18,6 @@ Unosimo naziv/ime elementa kataloga kojega dodajemo
 2. **TIP (<span style="color: #ff5630">\*obavezno polje\*</span>)**      
 Unosimo tip elementa kataloga
 
-</div>
 
 <!-- Add this button to download the page as PDF -->
 <div align="center">
@@ -32,12 +29,12 @@ Unosimo tip elementa kataloga
 
 <!-- Add JavaScript to generate PDF -->
 <script>
-    document.getElementById('downloadPDF').addEventListener('click', function() {
-    var element = document.getElementById('print'); 
-        html2pdf()
-            .from(element)
-            .save();
-    });
+        document.getElementById('downloadPDF').addEventListener('click', function() {
+            var element = document.querySelector('.md-content'); 
+            html2pdf()
+                .from(element)
+                .save();
+        });
 </script>
 
 <br></br><br></br>
