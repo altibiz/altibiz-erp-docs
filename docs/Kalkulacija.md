@@ -30,12 +30,12 @@
 
 <!-- Add JavaScript to generate PDF -->
 <script>
-    document.getElementById('downloadPDF').addEventListener('click', function() {
-        var element = document.body; // or specify the specific element you want to convert to PDF
-        html2pdf()
-            .from(element)
-            .save();
-    });
+        document.getElementById('downloadPDF').addEventListener('click', function() {
+            var element = document.getElementById('content'); // Specify the element to convert to PDF
+            html2pdf()
+                .from(element)
+                .save();
+        });
 </script>
 
 <br></br><br></br>
