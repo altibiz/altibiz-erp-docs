@@ -1,24 +1,25 @@
 # Kalkulacija  
+<div id="content">
 
-### <p align=center>**Dodavanje nove kalkulacije**  
+    ### <p align=center>**Dodavanje nove kalkulacije**  
 
-<img src="../images/KalkulacijaMenu.png"
-     alt="KalkulacijaMenu"
-     style="display: block;
-            margin-left: auto;
-            margin-right: auto;" 
-/>
+    <img src="../images/KalkulacijaMenu.png"
+        alt="KalkulacijaMenu"
+        style="display: block;
+                margin-left: auto;
+                margin-right: auto;" 
+    />
 
-**<p align=center>Put: Projekt → Dodaj → Odjel prodaje → Kalkulacija**  
-
-
-1. **NAZIV (<span style="color: #ff5630">\*obavezno polje\*</span>)**   
-Unosimo naziv/ime elementa kataloga kojega dodajemo
-
-2. **TIP (<span style="color: #ff5630">\*obavezno polje\*</span>)**      
-Unosimo tip elementa kataloga
+    **<p align=center>Put: Projekt → Dodaj → Odjel prodaje → Kalkulacija**  
 
 
+    1. **NAZIV (<span style="color: #ff5630">\*obavezno polje\*</span>)**   
+    Unosimo naziv/ime elementa kataloga kojega dodajemo
+
+    2. **TIP (<span style="color: #ff5630">\*obavezno polje\*</span>)**      
+    Unosimo tip elementa kataloga
+
+</div>
 <!-- Add this button to download the page as PDF -->
 <div align="center">
     <button id="downloadPDF" style="font-size:16px; padding:10px 20px; cursor:pointer;">Download as PDF</button>
