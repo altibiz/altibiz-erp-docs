@@ -1,5 +1,3 @@
-<printTag id="print">
-
 # Kalkulacija  
 
 ### <p align=center>**Dodavanje nove kalkulacije**  
@@ -20,23 +18,27 @@ Unosimo naziv/ime elementa kataloga kojega dodajemo
 2. **TIP (<span style="color: #ff5630">\*obavezno polje\*</span>)**      
 Unosimo tip elementa kataloga
 
-</printTag>
+<!-- Add this button to download the page as PDF -->
 
 <!-- Add this button to download the page as PDF -->
 <div align="center">
-    <button id="downloadPDF" style="font-size:16px; padding:10px 20px; cursor:pointer;">Download as PDF</button>
+    <div id="downloadPDF" data-filename="Kalkulacija.pdf" style="font-size:16px; padding:10px 20px; cursor:pointer;">
+        <img src="../images/pdf.png"  style="width:50px;height:50px;vertical-align:middle"/>Preuzmi kao PDF</div>
 </div>
 
+
+
 <!-- Include html2pdf.js library -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.9.2/html2pdf.bundle.min.js"></script>
+<script src="../documents/html2pdf.bundle.min.js"></script>
 
 <!-- Add JavaScript to generate PDF -->
 <script>
     document.getElementById('downloadPDF').addEventListener('click', function() {
-    var element = document.getElementById('print'); 
+        var element = document.querySelector('.md-content'); 
+        var filename = this.getAttribute('data-filename');
         html2pdf()
             .from(element)
-            .save();
+            .save(filename);
     });
 </script>
 
