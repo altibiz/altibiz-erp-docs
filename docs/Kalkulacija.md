@@ -1,4 +1,4 @@
-<printTag id="print">
+<div id="print">
 
 # Kalkulacija  
 
@@ -20,7 +20,7 @@ Unosimo naziv/ime elementa kataloga kojega dodajemo
 2. **TIP (<span style="color: #ff5630">\*obavezno polje\*</span>)**      
 Unosimo tip elementa kataloga
 
-</printTag>
+</div>
 
 <!-- Add this button to download the page as PDF -->
 <div align="center">
