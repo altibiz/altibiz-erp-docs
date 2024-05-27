@@ -18,7 +18,7 @@ Unosimo naziv/ime elementa kataloga kojega dodajemo
 2. **TIP (<span style="color: #ff5630">\*obavezno polje\*</span>)**      
 Unosimo tip elementa kataloga
 
-<!-- Add this button to download the page as PDF -->
+</printTag>
 
 <!-- Add this button to download the page as PDF -->
 <div align="center">
