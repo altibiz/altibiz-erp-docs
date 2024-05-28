@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    var mdContent = document.querySelector('.md-content__inner.md-typeset');
+    var mdContent = document.querySelector('.md-content');
     if (mdContent) {
         var downloadButton = document.createElement('div');
         downloadButton.id = 'downloadPDF';
@@ -8,7 +8,9 @@ document.addEventListener('DOMContentLoaded', function() {
         downloadButton.setAttribute('data-filename', document.title + '.pdf');
         downloadButton.classList.add('no-print');
         
-        mdContent.appendChild(downloadButton);
+        
+        // Append the button after the .md-content element
+        mdContent.parentNode.insertBefore(downloadButton, mdContent.nextSibling);
         
         downloadButton.addEventListener('click', function() {
             var filename = this.getAttribute('data-filename');
