@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
     document.body.appendChild(downloadButton);
     
     downloadButton.addEventListener('click', function() {
-        var element = document.querySelector('body');
+        var element = document.querySelector('.md-content'); 
         var filename = this.getAttribute('data-filename');
         html2pdf().from(element).save(filename);
     });
