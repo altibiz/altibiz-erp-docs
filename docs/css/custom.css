@@ -6,6 +6,5 @@
 
 
 .md-footer, .md-footer-meta, .md-footer-meta__inner, .md-copyright {
-    border-top: none !important; /* Remove any border from footer elements */
-    margin-top: 0 !important; /* Remove any margin from footer elements */
+    display: none;
 }
