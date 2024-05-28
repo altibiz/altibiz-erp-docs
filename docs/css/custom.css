@@ -1,10 +1,12 @@
 @media print {
     .no-print {
-        display: none;
+        display: none !important;
     }
 }
 
 
 .md-footer, .md-footer-meta, .md-footer-meta__inner, .md-copyright {
-    display: none;
+    border-top: none !important; 
+    margin-top: 0 !important;
+    display: none !important;
 }
