@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    var mdContent = document.querySelector('.md-content');
+    var mdContent = document.querySelector('.md-content__inner.md-typeset');
     if (mdContent) {
         var downloadButton = document.createElement('div');
         downloadButton.id = 'downloadPDF';
