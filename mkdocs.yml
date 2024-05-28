@@ -5,7 +5,9 @@ repo_url: https://github.com/altibiz/altibiz-erp-docs
 repo_name: altibiz-erp-docs
 edit_uri: edit/main/docs/   
 
-
+extra:
+  generator: false
+  
 extra_javascript:
   - js/html2pdf.bundle.min.js
   - js/custom.js
