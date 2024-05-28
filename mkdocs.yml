@@ -3,4 +3,12 @@ theme:
     name: material
 repo_url: https://github.com/altibiz/altibiz-erp-docs
 repo_name: altibiz-erp-docs
-edit_uri: edit/main/docs/
+edit_uri: edit/main/docs/   
+
+
+extra_javascript:
+  - js/html2pdf.bundle.min.js
+  - js/custom.js
+
+extra_css:
+  - css/custom.css
