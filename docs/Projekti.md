@@ -96,12 +96,6 @@
 
 **Spremiti izmjene**
 
-4. **Sada je moguće mijenjati određene informacije na projektu**
-
-5. **Projekt ponovo aktiviramo pomoću gumba "Aktiviraj projekt" (rad sa zapisima -> projektne funkcije - aktiviraj projekt) – čime se stavke iz kalkulacije kopiraju u pripremu (ako nisu pobrisane prije toga, biti će duple!!)**
-
-**Spremiti izmjene**
-
 <img src="../images/deaktiviranjeProjektaPR2.png"
     alt="Aktiviranje projekta"
     style="display: block;
@@ -110,6 +104,16 @@
 />
 
 
+4. **Sada je moguće mijenjati određene informacije na projektu**
+
+5. **Projekt ponovo aktiviramo pomoću gumba "Aktiviraj projekt"** (rad sa zapisima -> projektne funkcije - aktiviraj projekt) – čime se stavke iz kalkulacije kopiraju u pripremu (ako nisu pobrisane prije toga, biti će duple!!)
+
+<img src="../images/AktivirajProjekt.png"
+    alt="Aktiviranje projekta"
+    style="display: block;
+            margin-left: auto;
+            margin-right: auto;" 
+/>
 
 
 <br></br><br></br>
