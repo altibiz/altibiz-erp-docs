@@ -60,19 +60,19 @@
 
 **<p align=center>Put: Projekt → Informacije</p>**
 
-
 ### <p>Deaktivacija projekta pomoću micanja kvačice, te vraćanja nazad nakon promjena</p>
 <p>Koristi se ukoliko nema potrebe za ponovnim kopiranjem stavaka iz kalkulacije u pripremu, za izmjenu informacija o projektu</p>
 
 1. **Kučica Aktivan (<span style="color: #ff5630">\*obavezno\*</span>)**     
     Maknuti kvačicu sa kućice Aktivan(hack!)
 
-**Spremiti izmjene**
+2. **Spremiti izmjene**
 
-2. **Sada je moguće mijenjati informacije na projektu zbog čega je i deaktiviran**
-3. **ukoliko stavke iz pripreme nisu mijenjane, projekt se aktivira tako da se samo postavi kvačica na kućicu Aktivan(hack!)**
+3. **Sada je moguće mijenjati informacije na projektu zbog čega je i deaktiviran**
 
-**Spremiti izmjene**
+4. **ukoliko stavke iz pripreme nisu mijenjane, projekt se aktivira tako da se samo postavi kvačica na kućicu Aktivan(hack!)**
+
+5. **Spremiti izmjene**
 
 <img src="../images/deaktiviranjeProjektaPR1.png"
     alt="Aktiviranje projekta"
@@ -81,10 +81,8 @@
             margin-right: auto;" 
 />
 
-
 ### <p>Deaktivacija projekta pomoću micanja kvačice, aktivacija kroz ikonu „Aktiviraj projekt“</p>
 <p>Koristi se ukoliko je potrebno ponovo kopirati stavke kalkulacije u pripremu</p>
-
 
 1. **Stanje projekta (<span style="color: #ff5630">\*obavezno polje\*</span>)**     
     Promijenimo stanje projekta u "Nuđenje"
@@ -94,7 +92,7 @@
 
 3. **OPCIONALNO** - pobrisati sve stavke iz pripreme, zatim spremiti izmjene
 
-**Spremiti izmjene**
+4. **Spremiti izmjene**
 
 <img src="../images/deaktiviranjeProjektaPR2.png"
     alt="Aktiviranje projekta"
@@ -103,10 +101,9 @@
             margin-right: auto;" 
 />
 
+5. **Sada je moguće mijenjati određene informacije na projektu**
 
-4. **Sada je moguće mijenjati određene informacije na projektu**
-
-5. **Projekt ponovo aktiviramo pomoću gumba "Aktiviraj projekt"** (rad sa zapisima -> projektne funkcije - aktiviraj projekt) – čime se stavke iz kalkulacije kopiraju u pripremu (ako nisu pobrisane prije toga, biti će duple!!)
+6. **Projekt ponovo aktiviramo pomoću gumba "Aktiviraj projekt"** (rad sa zapisima -> projektne funkcije - aktiviraj projekt) – čime se stavke iz kalkulacije kopiraju u pripremu (ako nisu pobrisane prije toga, biti će duple!!)
 
 <img src="../images/AktivirajProjekt.png"
     alt="Aktiviranje projekta"
@@ -114,6 +111,5 @@
             margin-left: auto;
             margin-right: auto;" 
 />
-
 
 <br></br><br></br>
