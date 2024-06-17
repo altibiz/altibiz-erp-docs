@@ -1,4 +1,4 @@
-# Prijevodi
+# Jedinice mjere
 
 ### <p align=center>**Jedinice mjere</p>**
 
@@ -17,7 +17,7 @@
 2. **Jedinica mjere prema ISO standardu**  
    Upisuje se jedinica mjere prema ISO standardu
 
-3. **Jedinica mjere prema UN/ECE standardu(eRačun) **
+3. **Jedinica mjere prema UN/ECE standardu(eRačun)**
    Upisuje se jedinica mjere prema UN/ECE standardu
 
 3. **Naziv (<span style="color: #ff5630">\*obavezno polje\*</span>)**
@@ -37,6 +37,7 @@
 *(U primjeru radimo engleski prijevod za jedinicu mjere: komad)*
 
 **Tri kolone:** 
+
 1. **Ime propertija (<span style="color: #ff5630">\*obavezno\*</span>)**     
     Odabire se vrijednost za koju želimo pisati prijevod npr **šifra**
 
