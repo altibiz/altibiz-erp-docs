@@ -86,6 +86,9 @@ Neki partneri mogu imati račune u više različitih banaka tako da ukoliko part
 
 **<p align=center>Put: Poslovanje → Resursi → Partneri → Spoji partnere**  
 
+**<b>**<span style="color: #ff5630">Spajanje partnera se koristi iskljucivo kada imamo dupli unos istog partnera.</span>**
+
+
 1. Unutar izbornika Partneri selektiramo 2 partnera koje želimo spojiti u jednoga (*ctrl + S*)
 
 2. Nakon odabira partnera koje želimo spojiti odabiremo akciju “Spoji partnere”  
