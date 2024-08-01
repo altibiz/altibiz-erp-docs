@@ -1,4 +1,14 @@
-# Izdavanje robe sa skladišta (Helba)
+#Naručivanje
+
+**<p align=center>Put: Poslovanje → Nabava → Naručivanje**  
+
+##Označavanje stavki kao obrađenih
+
+**<p align=center>Put: Poslovanje → Nabava → Naručivanje → Označi obrađeno**  
+
+Bilo koju stavku koja nije do kraja obrađena moguće je označiti kao obrađenu. Potrebno je odabrati željene stavke u tablici i kliknuti gumb "Označi obrađeno". Stavke tada se tretiraju kao obrađene iako nisu naručene ili potpuno naručene.
+
+## Izdavanje robe sa skladišta (Helba)
 
 ### <p align=center>**Izdavanje robe sa skladišta (Helba)**
 
