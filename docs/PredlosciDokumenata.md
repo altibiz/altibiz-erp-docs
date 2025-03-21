@@ -29,6 +29,8 @@
     kada se po dokumentu napravi izvještaj u koji folder na projektu će biti spremljen
 10. **Predložak dokumenta** (\**ovo se popuni klikom na gumb + i odabirom fajla (predloska)**) 
     označava gdje se nalazi template za ovaj dokument - svaki put kada se generira izvjestaj taj template se koristi
+
+    Kada se ne + odabere predložak, automatski se popuni grid polja sa podatcima iz predloška (sa defeniranim poljima)
 11. **Opis** 
     detalji o predlošku
 12. **Pri spremanju spoji ako dokument postoji** 
