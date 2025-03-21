@@ -2,7 +2,7 @@
 
 ### <p align=center>**Aktiviranje projekta</p>**
 
-<img src="../images/AktivirajProjekt.png"
+<img src="./images/AktivirajProjekt.png"
     alt="Aktiviranje projekta"
     style="display: block;
             margin-left: auto;
@@ -59,14 +59,17 @@
 
 14. **Osnova ugovaranja (<span style="color: #ff5630">\*obavezno polje\*</span>)**   
     Iz padajućeg izbornika se odabire:
-        1. Narudžba – ukoliko je projekt aktiviran na temelju dobivene narudžbe/dispozicije        2. Ugovor s jednokratnim računom – ukoliko je projekt aktiviran na temelju ugovora čije će se plaćanje vršiti jednokratno, po završetku/realizaciji cjelokupnog predmeta ugovora
-        3. Ugovor s mjesečnim situacijama – ukoliko je projekt aktiviran na temelju ugovora čiji će se plaćanje vršiti temeljnih mjesečnih situacija, a po završetku/realizaciji cjelokupnog predmeta ugovora biti će izdana okončana situacija        4. Okvirni sporazum / Godišnji ugovor - ukoliko je projekt aktiviran na temelju okvirnog ugovora/okvirnog sporazuma/godišnjih ugovora čije će se plaćanje vršiti temeljemmjesečnih/kvartalnih/polugodišnjih situacija
+        1. Narudžba – ukoliko je projekt aktiviran na temelju dobivene narudžbe/dispozicije
+        2. Ugovor s jednokratnim računom – ukoliko je projekt aktiviran na temelju ugovora čije će se plaćanje vršiti jednokratno, po završetku/realizaciji cjelokupnog predmeta ugovora
+        3. Ugovor s mjesečnim situacijama – ukoliko je projekt aktiviran na temelju ugovora čiji će se plaćanje vršiti temeljnih mjesečnih situacija, a po završetku/realizaciji cjelokupnog predmeta ugovora biti će izdana okončana situacija
+        4. Okvirni sporazum / Godišnji ugovor - ukoliko je projekt aktiviran na temelju okvirnog ugovora/okvirnog sporazuma/godišnjih ugovora čije će se plaćanje vršiti temeljemmjesečnih/kvartalnih/polugodišnjih situacija
 
 15. **Vrsta radova/usluga (<span style="color: #ff5630">\*obavezno polje\*</span>)**   
     Iz padajućeg izbornika se odabire glavna/primarna vrsta radova/usluga na projektu.
 
 16. **Neobavezna polja za označiti ili ne:**
-    U slučajevima kada je narudžba/ugovor pristigao od partnera prema kojemu će se izdavati računi, a plaćanje navedenih računa će vršiti direktno naručitelj (partner različit od onog prema kojem su računi izdani) tada se ovo polje označuje kvačicom. Takva praksa se gotovo uvijek primjenjuje u slučajevima kada je HELB nominirani podizvoditelj u postupcima javne nabave (ovakav način plaćanja je definiran ZJN 120/16). U informacijama projekta je obavezno provjeriti jesu li upisani ispravni podaci o Investitoru i Krajnjem korisniku
+    U slučajevima kada je narudžba/ugovor pristigao od partnera prema kojemu će se izdavati računi, a plaćanje navedenih računa će vršiti direktno naručitelj (partner različit od onog prema kojem su računi izdani) tada se ovo polje označuje kvačicom. Takva praksa se gotovo uvijek primjenjuje u slučajevima kada je HELB nominirani podizvoditelj u postupcima javne nabave (ovakav način plaćanja je definiran ZJN 120/16). U informacijama projekta je obavezno provjeriti jesu li upisani ispravni podaci o Investitoru i Krajnjem korisniku
+
 17. **Prijenos porezne obveze (tuzemno)**
     U slučajevima kada se na narudžbu/ugovor ne primjenjuje obračun PDV-a, već prijenos porezne obveze (PPO) tada se ovo polje označuje kvačicom (rekonstrukcije, izgradnja novog postrojenja i dr.). Prilikom aktivacije projekta potrebno je s Naručiteljem provjeriti primjenjuje li se PPO ili ide obračun PDV-a. Dobivena informacija se upisuje pod napomenu projekta, a mail potvrde/odgovora dobiven od Naručitelja se sprema u DMS (folder Narudžba naručitelja ili Ugovor).
 
@@ -74,7 +77,8 @@
     Ukoliko je riječ o izvozu ili inozemnoj isporuci koja je oslobođena PDV-a ili ne podliježe oporezivanju tada se ovo polje označuje kvačicom. 
 
 19. **Okvirni ugovor**
-    Ukoliko je projekt aktiviran na temelju okvirnog ugovora ili sporazuma temeljem kojeg će biti izdane zasebne narudžbe/dispozicije, a na temelju kojih će se vršiti realizacija projekta tada se ovo polje označuje kvačicom, kako se u izvještajima ne bi duplirali iznosi okvirnog ugovora i narudžbi.
+    Ukoliko je projekt aktiviran na temelju okvirnog ugovora ili sporazuma temeljem kojeg će biti izdane zasebne narudžbe/dispozicije, a na temelju kojih će se vršiti realizacija projekta tada se ovo polje označuje kvačicom, kako se u izvještajima ne bi duplirali iznosi okvirnog ugovora i narudžbi.
+
 
 <p align=center> <span style="color:#ff5630">Prilikom aktivacije projekta, kalkulacija se kopira u praćenje projekta, na temelju kojeg VP vrši narudžbu opreme, materijala, usluga, planira resurse i dr. </span></p>
 
@@ -89,11 +93,11 @@ Ako u izborniku osoba ne postoji, treba dodati novi Kontakt (kontakt podaci o od
 PUT: Ući u projekt za koji se unose podaci-> TAB Projekt -> polje „Kontakt“ -> + (obavezno koristiti +, prilikom unosa novih podataka, odnosno postojeći kontakti se ne smiju mijenjati)
 
 Internet stranica, e-mail adresa, adresa i telefon se upisuje u niže TAB-ove i nakon toga odabire u drop 
-down listi
+down listi./
 
 <p align=center> <span style="color:#ff5630">Nakon aktivacije projekta, kupcu/naručitelju je potrebno e-mailom poslati Potvrdu narudžbe: PUT: Uči u projekt za koji se priprema ponuda -> Dodaj -> Odjel prodaje -> Potvrda narudžbe -> Pozicionirati se na potvrdu narudžbe -> Izvještaj. Word dokument se printa, potpisuje i e-mailom vraća kupcu/naručitelju, a e-mail o poslanoj potvrdi se sprema u DMS u pripadajući foldre</span></p>
 
-<img src="../images/AktiviranjeProjektaPR.png"
+<img src="./images/AktiviranjeProjektaPR.png"
     alt="Aktiviranje projekta"
     style="display: block;
             margin-left: auto;
@@ -116,11 +120,11 @@ down listi
 
 3. **Sada je moguće mijenjati informacije na projektu zbog čega je i deaktiviran**
 
-4. **ukoliko stavke iz pripreme nisu mijenjane, projekt se aktivira tako da se samo postavi kvačica na kućicu Aktivan(hack!)**
+4. **ukoli./stavke iz pripreme nisu mijenjane, projekt se aktivira tako da se samo postavi kvačica na kućicu Aktivan(hack!)**
 
 5. **Spremiti izmjene**
 
-<img src="../images/deaktiviranjeProjektaPR1.png"
+<img src="./images/deaktiviranjeProjektaPR1.png"
     alt="Aktiviranje projekta"
     style="display: block;
             margin-left: auto;
@@ -136,22 +140,22 @@ down listi
 2. **Kučica Aktivan (<span style="color: #ff5630">\*obavezno\*</span>)**     
     Maknuti kvačicu sa kućice Aktivan(hack!)
 
-3. **OPCIONALNO** - pobrisati sve stavke iz pripreme, zatim spremiti izmjene
+3. **OPCIO./NO** - pobrisati sve stavke iz pripreme, zatim spremiti izmjene
 
 4. **Spremiti izmjene**
 
-<img src="../images/deaktiviranjeProjektaPR2.png"
+<img src="./images/deaktiviranjeProjektaPR2.png"
     alt="Aktiviranje projekta"
     style="display: block;
             margin-left: auto;
             margin-right: auto;" 
 />
 
-5. **Sada je moguće mijenjati određene informacije na projektu**
+5. **Sada ./moguće mijenjati određene informacije na projektu**
 
 6. **Projekt ponovo aktiviramo pomoću gumba "Aktiviraj projekt"** (rad sa zapisima -> projektne funkcije - aktiviraj projekt) – čime se stavke iz kalkulacije kopiraju u pripremu (ako nisu pobrisane prije toga, biti će duple!!)
 
-<img src="../images/AktivirajProjekt.png"
+<img src="./images/AktivirajProjekt.png"
     alt="Aktiviranje projekta"
     style="display: block;
             margin-left: auto;

@@ -2,7 +2,7 @@
 
 ### <p align="center">**Dodavanje urudžbenog zapisnika**</p>
 
-<img src="../images/urudzbenizapisnik.png"
+<img src="./images/urudzbenizapisnik.png"
      alt="UrudzbeniZapisnik"
      style="display: block; margin-left: auto; margin-right: auto;" 
 />

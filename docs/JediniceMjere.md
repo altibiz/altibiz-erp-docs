@@ -2,7 +2,7 @@
 
 ### <p align=center>**Jedinice mjere</p>**
 
-<img src="../images/jedinicemjere.png"
+<img src="./images/jedinicemjere.png"
     alt="Jedinice mjere"
     style="display: block;
             margin-left: auto;
@@ -23,7 +23,7 @@
 3. **Naziv (<span style="color: #ff5630">\*obavezno polje\*</span>)**
     Upisujemo naziv jedinice mjere - primjer Komad
 
-<img src="../images/jedinicemjerepr.png"
+<img src="./images/jedinicemjerepr.png"
     alt="Jedinice mjere"
     style="display: block;
             margin-left: auto;
@@ -48,7 +48,7 @@
     Upisujemo vrijednost za šifru na engleskom - **pcs**
 
 
-<img src="../images/jedinicemjereprijevod.png"
+<img src="./images/jedinicemjereprijevod.png"
     alt="Jedinice mjere"
     style="display: block;
             margin-left: auto;

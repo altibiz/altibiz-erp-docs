@@ -3,7 +3,7 @@
 
 ### <p align=center>**Unos partnera**
 
-<img src="../images/Partneri.JPG"
+<img src="./images/Partneri.JPG"
      alt="Partneri"
      style="display: block;
             margin-left: auto;
@@ -66,8 +66,8 @@ Neki partneri mogu imati više kontakt osoba ovisno o poziciji/mjestu rada koji 
 11. **BANKOVNI RAČUNI**     
 Neki partneri mogu imati račune u više različitih banaka tako da ukoliko partner ima više računa odaberemo "defaultni" račun koji se najčešće koristi  
 
-<a href="../documents/Unos novog partnera.pdf" target="_blank">
-    <img src="../images/pdf.png" alt="Download link Unos novog partnera.pdf" style="width:50px;height:50px;vertical-align:middle">
+<a href="./documents/Unos novog partnera.pdf" target="_blank">
+    <img src="./images/pdf.png" alt="Download link Unos novog partnera.pdf" style="width:50px;height:50px;vertical-align:middle">
     <font size="2">Unos novog partnera.pdf</font>
 </a>
 
@@ -76,7 +76,7 @@ Neki partneri mogu imati račune u više različitih banaka tako da ukoliko part
 
 ### <p align=center>**Spajanje partnera**
 
-<img src="../images/spojiPartnere.jpg"
+<img src="./images/spojiPartnere.jpg"
      alt="Spoji partnere"
      style="display: block;
             margin-left: auto;
@@ -93,7 +93,7 @@ Neki partneri mogu imati račune u više različitih banaka tako da ukoliko part
 
 2. Nakon odabira partnera koje želimo spojiti odabiremo akciju “Spoji partnere”  
 
-    <img src="../images/spojiPartnere1.png"
+    <img src="./images/spojiPartnere1.png"
         alt="Spoji partnere"
         style="display: block;
                 margin-left: auto;
@@ -102,7 +102,7 @@ Neki partneri mogu imati račune u više različitih banaka tako da ukoliko part
 
 3. Iz padajućeg izbornika izaberemo partnera koji će biti glavni tj. onog u kojeg želimo pridodati “starog” partnera i odaberemo OK
 
-    <img src="../images/spojiPartnere2.png"
+    <img src="./images/spojiPartnere2.png"
         alt="Spoji partnere"
         style="display: block;
             margin-left: auto;
@@ -111,8 +111,8 @@ Neki partneri mogu imati račune u više različitih banaka tako da ukoliko part
 
 <p align=center> * <span style="color:#ff5630">Podaci starog partnera ostaju na svim dokumentima prethodno generiranim prije spajanja partnera</span> *</p>
 
-<a href="../documents/Spajanje partnera.pdf" target="_blank">
-    <img src="../images/pdf.png" alt="Download link Spajanje partnera.pdf" style="vertical-align:middle;width:50px;height:50px;">
+<a href="./documents/Spajanje partnera.pdf" target="_blank">
+    <img src="./images/pdf.png" alt="Download link Spajanje partnera.pdf" style="vertical-align:middle;width:50px;height:50px;">
     <font size="2">Spajanje partnera.pdf</font>
 </a>
 

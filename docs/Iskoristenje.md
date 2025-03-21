@@ -2,7 +2,7 @@
 
 ### <p align=center>**Pregled planiranih/neplaniranih resursa**
 
-<img src="../images/iskoristenje.png"
+<img src="./images/iskoristenje.png"
      alt="Iskorištenje"
      style="display: block;
             margin-left: auto;
@@ -86,7 +86,7 @@ Prikazuje gantogram koji sadrži sve podatke u projektu prikazane u vremenskom o
 
 Desni klik na horizontalni stupac aktivnosti otvara meni sa "dodaj podelement". To otvara dijalog za dodavanje aktivnosti koji je filtrirane na vrste radova koji su podaktivnosti odabranog stupca
 
-<img src="../images/iskoristenje2.png"
+<img src="./images/iskoristenje2.png"
      alt="Iskorištenje"
      style="display: block;
             margin-left: auto;
@@ -97,15 +97,15 @@ Desni klik na horizontalni stupac aktivnosti otvara meni sa "dodaj podelement". 
 
 Prikazuje gantogram koji sadrži sve podatke o vrstama resursa i resursima koji su dodijeljeni kao aktivnost na projekt i grafički ih prikazuje u prethodno zadanom vremenskom okruženju
 
-<img src="../images/iskoristenje1.png"
+<img src="./images/iskoristenje1.png"
      alt="Iskorištenje"
      style="display: block;
             margin-left: auto;
             margin-right: auto;" 
 />
 
-<a href="../documents/Pregled planiranihneplaniranih resursa.pdf" target="_blank">
-    <img src="../images/pdf.png" alt="Download link Pregled planiranih/neplaniranih resursa.pdf" style="width:50px;height:50px;vertical-align:middle">
+<a href="./documents/Pregled planiranihneplaniranih resursa.pdf" target="_blank">
+    <img src="./images/pdf.png" alt="Download link Pregled planiranih/neplaniranih resursa.pdf" style="width:50px;height:50px;vertical-align:middle">
     <font size="2">Pregled planiranih/neplaniranih resursa.pdf</font>
 </a>
 

@@ -100,8 +100,8 @@
     Potrebno je odabrati vrstu nastupanja na projektu.
 
 
-<a href="../documents/Otvaranje novog projekta.pdf" target="_blank">
-    <img src="../images/pdf.png" alt="Download link Otvaranje novog projekta.pdf" style="width:50px;height:50px;vertical-align:middle">
+<a href="./documents/Otvaranje novog projekta.pdf" target="_blank">
+    <img src="./images/pdf.png" alt="Download link Otvaranje novog projekta.pdf" style="width:50px;height:50px;vertical-align:middle">
     <font size="2">Otvaranje novog projekta.pdf</font>
 </a>
 

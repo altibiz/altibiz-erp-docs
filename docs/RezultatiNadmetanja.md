@@ -2,7 +2,7 @@
 
 ### <p align=center>**Rezultati nadmetanja**
 
-<img src="../images/rezultatiNadmetanja.png"
+<img src="./images/rezultatiNadmetanja.png"
     alt="Rezultati nadmetanja"
     style="display: block;
             margin-left: auto;
@@ -21,7 +21,8 @@ Podaci o ponudama se unose odmah po objavi Zapisnika s otvaranja ponuda, dok se 
 2. **Iznos ponude**
     Upisuju se iznosi ponuda (bez PDV-a) ostalih ponuditelja, dok se HELB-ova automatski povlači iz ponude
 
-3. **Odabrana ponuda**                     Odmah po objavi Odluke o odabiru, označava se ponuda koja je zadovoljila uvijete i prošla na natječaju *više ponuda može biti odabrano istovremeno, u slučaju da je HELB podizvoditelji na nekom postupku ili ako se npr. na natječaj javlja zajednica ponuditelja
+3. **Odabrana ponuda**                 
+    Odmah po objavi Odluke o odabiru, označava se ponuda koja je zadovoljila uvijete i prošla na natječaju *više ponuda može biti odabrano istovremeno, u slučaju da je HELB podizvoditelji na nekom postupku ili ako se npr. na natječaj javlja zajednica ponuditelja
 
 4. **Žalbe**    
     U slučaju žalbe od strane HELB-a ili nekog drugog ponuditelja označava se navedeni checkbox
@@ -31,8 +32,8 @@ Podaci o ponudama se unose odmah po objavi Zapisnika s otvaranja ponuda, dok se 
 
 
 <p align=center> <span style="color:#ff5630">Kako bi se rezultati nadmetanja mogli pratiti u izvješću Praćenje rezultata nadmetanja potrebno je u informacijama o projektu označiti checkbox Rezultati nadmetanja</span></p>
-
-<img src="../images/rezultatiNadmetanja2.png"
+./
+<img src="./images/rezultatiNadmetanja2.png"
     alt="Rezultati nadmetanja"
     style="display: block;
             margin-left: auto;
