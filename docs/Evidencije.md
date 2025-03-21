@@ -1,7 +1,7 @@
 ## <p align=center>**Evidencije(Knjige evidencija)**</p>
 
 [//]: # "align picture to center"
-<img src="./images/evidencije.png"
+<img src="../images/evidencije.png"
      alt="Evidencije"
      style="display: block;
             margin-left: auto;
@@ -52,8 +52,8 @@
 
 - **Potpis** - Defaultno ime korisnika koji je unio zapisnik/dokumentaciju (automatski)
 
-<a href="./documents/Knjiga projekata v1.pdf" target="_blank">
-    <img src="./images/pdf.png" alt="Download link Knjiga projekata v1.pdf" style="width:50px;height:50px;vertical-align:middle">
+<a href="../documents/Knjiga projekata v1.pdf" target="_blank">
+    <img src="../images/pdf.png" alt="Download link Knjiga projekata v1.pdf" style="width:50px;height:50px;vertical-align:middle">
     <font size="2">Knjiga projekata.pdf</font>
 </a>
 
@@ -92,8 +92,8 @@
 
 - **Potpis** - Defaultno ime korisnika koji je unio zapisnik/dokumentaciju (automatski)
 
-<a href="./documents/Knjiga zapisnika o ispitivanjima v1.1.pdf" target="_blank">
-    <img src="./images/pdf.png" alt="Download link Knjiga zapisnika o ispitivanjima v1.1.pdf" style="width:50px;height:50px;vertical-align:middle">
+<a href="../documents/Knjiga zapisnika o ispitivanjima v1.1.pdf" target="_blank">
+    <img src="../images/pdf.png" alt="Download link Knjiga zapisnika o ispitivanjima v1.1.pdf" style="width:50px;height:50px;vertical-align:middle">
     <font size="2">Knjiga zapisnika o ispitivanjima.pdf</font>
 </a>
 
@@ -124,8 +124,8 @@
 
 - **Potpis** - Defaultno ime korisnika koji je unio zapisnik/dokumentaciju (automatski)
 
-<a href="./documents/Knjiga proizvoda.pdf" target="_blank">
-    <img src="./images/pdf.png" alt="Download link Knjiga proizvoda.pdf" style="width:50px;height:50px;vertical-align:middle">
+<a href="../documents/Knjiga proizvoda.pdf" target="_blank">
+    <img src="../images/pdf.png" alt="Download link Knjiga proizvoda.pdf" style="width:50px;height:50px;vertical-align:middle">
     <font size="2">Knjiga proizvoda.pdf</font>
 </a>
 
@@ -165,8 +165,8 @@
 
 - **Potpis** - Defaultno ime korisnika koji je unio zapisnik/dokumentaciju (automatski)
 
-<a href="./documents/Knjiga izjava o sukladnosti v1.1.pdf" target="_blank">
-    <img src="./images/pdf.png" alt="Download link Knjiga izjava o sukladnosti v1.1.pdf" style="width:50px;height:50px;vertical-align:middle">
+<a href="../documents/Knjiga izjava o sukladnosti v1.1.pdf" target="_blank">
+    <img src="../images/pdf.png" alt="Download link Knjiga izjava o sukladnosti v1.1.pdf" style="width:50px;height:50px;vertical-align:middle">
     <font size="2">Knjiga izjava o sukladnosti.pdf</font>
 </a>
 

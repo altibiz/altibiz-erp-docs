@@ -3,7 +3,7 @@
 
 ### <p align=center>**Predlošci dokumenata**  
 
-<img src="./images/predlosciMeni.png"
+<img src="../images/predlosciMeni.png"
     alt="Predlošci dokumenata"
     style="display: block;
             margin-left: auto;
@@ -45,7 +45,7 @@
     pdf se kreira u folderu oznacenom u postavkama u "PublicFolderAddress"
 
 
-<img src="./images/predlosciPrezenterTop.png"
+<img src="../images/predlosciPrezenterTop.png"
     alt="Predložak dokumenta"
     style="display: block;
             margin-left: auto;
@@ -68,7 +68,7 @@
 23. **Format**
     Ovo moze biti Text, Paragraph, QrCode, PaymentBarCode - kada se u sustavo obraduje ovo polje na poseban nacin to radi da ubaci vrijednost 
 24. **Evidencija**
-<img src="./images/predlosciPrezenterBottom.png"
+<img src="../images/predlosciPrezenterBottom.png"
     alt="Polja"
     style="display: block;
             margin-left: auto;
@@ -82,7 +82,7 @@
 26. **Ime propertija*
     Sa čime se puni lista npr.  Partner.Contacts
 
-<img src="./images/predlosciPrezenterBottomListe.png"
+<img src="../images/predlosciPrezenterBottomListe.png"
     alt="Polja"
     style="display: block;
             margin-left: auto;
@@ -102,7 +102,7 @@
 30. **Izvor liste**
     Ako je vrsta polja  "padajući izbornik" ovdje se bira izvor liste tj sta iude u padajući izbornik
 
-<img src="./images/predlosciPrezenterBottomUnos.png"
+<img src="../images/predlosciPrezenterBottomUnos.png"
     alt="Polja"
     style="display: block;
             margin-left: auto;

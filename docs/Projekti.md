@@ -2,7 +2,7 @@
 
 ### <p align=center>**Aktiviranje projekta</p>**
 
-<img src="./images/AktivirajProjekt.png"
+<img src="../images/AktivirajProjekt.png"
     alt="Aktiviranje projekta"
     style="display: block;
             margin-left: auto;
@@ -97,7 +97,7 @@ down listi./
 
 <p align=center> <span style="color:#ff5630">Nakon aktivacije projekta, kupcu/naručitelju je potrebno e-mailom poslati Potvrdu narudžbe: PUT: Uči u projekt za koji se priprema ponuda -> Dodaj -> Odjel prodaje -> Potvrda narudžbe -> Pozicionirati se na potvrdu narudžbe -> Izvještaj. Word dokument se printa, potpisuje i e-mailom vraća kupcu/naručitelju, a e-mail o poslanoj potvrdi se sprema u DMS u pripadajući foldre</span></p>
 
-<img src="./images/AktiviranjeProjektaPR.png"
+<img src="../images/AktiviranjeProjektaPR.png"
     alt="Aktiviranje projekta"
     style="display: block;
             margin-left: auto;
@@ -124,7 +124,7 @@ down listi./
 
 5. **Spremiti izmjene**
 
-<img src="./images/deaktiviranjeProjektaPR1.png"
+<img src="../images/deaktiviranjeProjektaPR1.png"
     alt="Aktiviranje projekta"
     style="display: block;
             margin-left: auto;
@@ -144,7 +144,7 @@ down listi./
 
 4. **Spremiti izmjene**
 
-<img src="./images/deaktiviranjeProjektaPR2.png"
+<img src="../images/deaktiviranjeProjektaPR2.png"
     alt="Aktiviranje projekta"
     style="display: block;
             margin-left: auto;
@@ -155,7 +155,7 @@ down listi./
 
 6. **Projekt ponovo aktiviramo pomoću gumba "Aktiviraj projekt"** (rad sa zapisima -> projektne funkcije - aktiviraj projekt) – čime se stavke iz kalkulacije kopiraju u pripremu (ako nisu pobrisane prije toga, biti će duple!!)
 
-<img src="./images/AktivirajProjekt.png"
+<img src="../images/AktivirajProjekt.png"
     alt="Aktiviranje projekta"
     style="display: block;
             margin-left: auto;

@@ -4,7 +4,7 @@
 ### <p align=center>**Raspored resursa**
 
 [//]: # "align picture to center"
-<img src="./images/rasporedResursa.png"
+<img src="../images/rasporedResursa.png"
      alt="Raspored resursa"
      style="display: block;
             margin-left: auto;
@@ -55,15 +55,15 @@
 
 16. U donjem gridu se nalaze stupci "**Vrsta resursa**" i "**Ukupno(Popunjeno/Potrebno)**" koji nam pokazuju koliko je od planiranih resursa dostupno/iskorišteno u odabranom "**Vremenskom periodu**“
 
-<img src="./images/rasporedResursa1.jpg"
+<img src="../images/rasporedResursa1.jpg"
      alt="Raspored resursa"
      style="display: block;
             margin-left: auto;
             margin-right: auto;" 
 />
 
-<a href="./documents/Raspored resursa(bez oznaka).pdf" target="_blank">
-    <img src="./images/pdf.png" alt="Download link Raspored resursa(bez oznaka).pdf" style="width:50px;height:50px;vertical-align:middle">
+<a href="../documents/Raspored resursa(bez oznaka).pdf" target="_blank">
+    <img src="../images/pdf.png" alt="Download link Raspored resursa(bez oznaka).pdf" style="width:50px;height:50px;vertical-align:middle">
     <font size="2">Raspored resursa(bez oznaka).pdf</font>
 </a>
 
@@ -72,7 +72,7 @@
 
 ### <p align=center>**Raspored resursa(sa oznakama)**
 
-<img src="./images/rasporedResursa.png"
+<img src="../images/rasporedResursa.png"
      alt="Raspored resursa"
      style="display: block;
             margin-left: auto;
@@ -124,15 +124,15 @@
 
 16. U donjem gridu se nalaze stupci (**16**) "Vrsta resursa" i "Ukupno(Popunjeno/Potrebno)" koji nam pokazuju koliko je od planiranih resursa dostupno/iskorišteno u odabranom (**2**) "Vremenskom periodu"
 
-<img src="./images/rasporedResursa2.png"
+<img src="../images/rasporedResursa2.png"
      alt="Raspored resursa"
      style="display: block;
             margin-left: auto;
             margin-right: auto;" 
 />
  
-<a href="./documents/Raspored resursa(sa oznakama).pdf" target="_blank">
-    <img src="./images/pdf.png" alt="Download link Raspored resursa(sa oznakama).pdf" style="width:50px;height:50px;vertical-align:middle">
+<a href="../documents/Raspored resursa(sa oznakama).pdf" target="_blank">
+    <img src="../images/pdf.png" alt="Download link Raspored resursa(sa oznakama).pdf" style="width:50px;height:50px;vertical-align:middle">
     <font size="2">Raspored resursa(sa oznakama).pdf</font>
 </a>
 

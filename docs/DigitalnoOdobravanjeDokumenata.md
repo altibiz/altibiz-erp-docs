@@ -1,8 +1,8 @@
 # Digitalno odobravanje dokumenata 
 
-### <p align=center>**Digitalno odobravanje dokumenata** ![Checkmark](./images/checkMark20.png)</p>
+### <p align=center>**Digitalno odobravanje dokumenata** ![Checkmark](../images/checkMark20.png)</p>
 
-<img src="./images/odobravanjeDokumenata.png"
+<img src="../images/odobravanjeDokumenata.png"
     alt="Odobravanje dokumenata"
     style="display: block;
             margin-left: auto;
@@ -18,7 +18,7 @@ Voditelj pojedinog odjela zadužen za odobravanje određenih dokumenata dobiva z
 1. Obavijesti o odobravanju dokumenata se zaprima u izborniku „Obavijesti“ i na „Mail“
 
     #### <p align=center>Obavijesti unutar Altibiza
-    <img src="./images/odobravanjeDokumenata1.png"
+    <img src="../images/odobravanjeDokumenata1.png"
         alt="Odobravanje dokumenata"
         style="display: block;
                 margin-left: auto;
@@ -26,7 +26,7 @@ Voditelj pojedinog odjela zadužen za odobravanje određenih dokumenata dobiva z
     />
 
     #### <p align=center>Obavijest unutar mail preglednika
-    <img src="./images/odobravanjeDokumenata2.png"
+    <img src="../images/odobravanjeDokumenata2.png"
         alt="Odobravanje dokumenata"
         style="display: block;
                 margin-left: auto;
@@ -41,7 +41,7 @@ Voditelj pojedinog odjela zadužen za odobravanje određenih dokumenata dobiva z
     <span style="color:#ff5630">2.2)</span> **Odbiti zahtjev** ![Crossmark](./images/crossMark18.png) (koji se nakon odbijanja vraća korisniku uz obavijest u izborniku “Obavijesti” i na mail)    
 
     <p align=center> Poslovanje → Obavijesti
-    <img src="./images/odobravanjeDokumenata3.png"
+    <img src="../images/odobravanjeDokumenata3.png"
         alt="Odobravanje dokumenata"
         style="display: block;
                 margin-left: auto;
@@ -49,7 +49,7 @@ Voditelj pojedinog odjela zadužen za odobravanje određenih dokumenata dobiva z
     />
 
     <p align=center> Poslovanje → Dokumenti → Odobravanje dokumenata
-    <img src="./images/odobravanjeDokumenata4.png"
+    <img src="../images/odobravanjeDokumenata4.png"
         alt="Odobravanje dokumenata"
         style="display: block;
                 margin-left: auto;
@@ -63,7 +63,7 @@ Voditelj pojedinog odjela zadužen za odobravanje određenih dokumenata dobiva z
 
     <span style="color:#ff5630">b.3)</span> Nakon ispravka/dorade na odbijenom dokumentu korisnik ponavlja cijeli process.    
 
-    <img src="./images/odobravanjeDokumenata5.png"
+    <img src="../images/odobravanjeDokumenata5.png"
         alt="Odobravanje dokumenata"
         style="display: block;
                 margin-left: auto;

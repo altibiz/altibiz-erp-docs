@@ -2,7 +2,7 @@
 
 ### <p align=center>**Unos radnih sati**  
 
-<img src="./images/unosRadnihSati.png"
+<img src="../images/unosRadnihSati.png"
     alt="Unos radnih sati"
     style="display: block;
             margin-left: auto;
@@ -53,15 +53,15 @@
 14. **OPIS**    
     U ovo se polje upisuju dodatne napomene za odabrani projekt koje mogu kasnije koristiti korisniku kao podsjetnik
 
-<img src="./images/unosRadnihSati1.jpg"
+<img src="../images/unosRadnihSati1.jpg"
     alt="Unos radnih sati"
     style="display: block;
             margin-left: auto;
             margin-right: auto;" 
 />
 
-<a href="./documents/Pravilan unos radnih sati.pdf" target="_blank">
-    <img src="./images/pdf.png" alt="Download link Pravilan unos radnih sati.pdf" style="width:50px;height:50px;vertical-align:middle">
+<a href="../documents/Pravilan unos radnih sati.pdf" target="_blank">
+    <img src="../images/pdf.png" alt="Download link Pravilan unos radnih sati.pdf" style="width:50px;height:50px;vertical-align:middle">
     <font size="2">Pravilan unos radnih sati.pdf</font>
 </a>
 

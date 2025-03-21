@@ -12,7 +12,7 @@ Bilo koju stavku koja nije do kraja obrađena moguće je označiti kao obrađenu
 
 ### <p align=center>**Izdavanje robe sa skladišta (Helba)**
 
-<img src="./images/izdavanjeRobeSaSkladista.png"
+<img src="../images/izdavanjeRobeSaSkladista.png"
     alt="Izdavanje robe sa skladišta"
     style="display: block;
             margin-left: auto;
@@ -53,8 +53,8 @@ Bilo koju stavku koja nije do kraja obrađena moguće je označiti kao obrađenu
 
 13. **OSNOVICA U VALUTI** ( \*rezultat množenja „Jedinične cijene u valuti“ x „Količine“ *)
 
-<a href="./documents/Izdavanje sa skladišta.pdf" target="_blank">
-    <img src="./images/pdf.png" alt="Download link Izdavanje sa skladišta.pdf" style="width:50px;height:50px;vertical-align:middle">
+<a href="../documents/Izdavanje sa skladišta.pdf" target="_blank">
+    <img src="../images/pdf.png" alt="Download link Izdavanje sa skladišta.pdf" style="width:50px;height:50px;vertical-align:middle">
     <font size="2">Izdavanje sa skladišta.pdf</font>
 </a>
 

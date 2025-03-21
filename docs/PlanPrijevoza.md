@@ -2,7 +2,7 @@
 
 ### <p align=center>**Plan prijevoza**  
 
-<img src="./images/planPrijevoza.png"
+<img src="../images/planPrijevoza.png"
     alt="Plan prijevoza"
     style="display: block;
             margin-left: auto;
@@ -53,8 +53,8 @@
     Označavanjem checkboxa „Pošalji“ i nakon toga akcije „Prihvati“ plan prijevoza se šalje vozaču, ako se ne želi poslati obavijest vozaču checkbox „Pošalji“ ostaje prazan
 
 
-<a href="./documents/Unos plana prijevoza v1.pdf" target="_blank">
-    <img src="./images/pdf.png" alt="Download link Unos plana prijevoza v1.pdf" style="width:50px;height:50px;vertical-align:middle">
+<a href="../documents/Unos plana prijevoza v1.pdf" target="_blank">
+    <img src="../images/pdf.png" alt="Download link Unos plana prijevoza v1.pdf" style="width:50px;height:50px;vertical-align:middle">
     <font size="2">Unos plana prijevoza.pdf</font>
 </a>
 

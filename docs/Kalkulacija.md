@@ -2,7 +2,7 @@
 
 ### <p align="center">**Dodavanje nove kalkulacije**</p>
 
-<img src="./images/KalkulacijaMenu.png"
+<img src="../images/KalkulacijaMenu.png"
      alt="KalkulacijaMenu"
      style="display: block; margin-left: auto; margin-right: auto;" 
 />
@@ -27,7 +27,7 @@ Unosimo naziv/ime kalkulacije koju  dodajemo
     U ovo se polje upisuju dodatne napomene za kalkulaciju koje mogu kasnije koristiti korisniku kao podsjetnik
 
 
-<img src="./images/kalkulacijapr.png"
+<img src="../images/kalkulacijapr.png"
     alt="Kalkulacija"
     style="display: block; margin-left: auto; margin-right: auto;" 
 />
