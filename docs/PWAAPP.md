@@ -75,6 +75,7 @@ Polje "Opis": Za dodatni opis unosa.
 Prekidač "Odobreno": Indikator statusa odobrenja unosa.
 Gumb "Predaj": Za spremanje i slanje unesenih podataka.
  
+
 5. **Odobrenja (za voditelje)**
 <div style="
     display: flex;
