@@ -130,11 +130,11 @@ Ova funkcionalnost je ključna za upravljanje radnim nalozima. Omogućuje pregle
     width: 100%;
     gap: 20px; /* razmak između slika */
 ">
-    <img src="../images/nesukladnosti.jpg" alt="Nesukladnosti" style="
+    <img src="../images/nesukladnosti.png" alt="Nesukladnosti" style="
         max-width: 45%; /* prilagođava širinu slike */
         height: auto;
     ">
-    <img src="../images/nesukladnostUnos.jpg" alt="Nesukladnosti" style="
+    <img src="../images/nesukladnostUnos.png" alt="Nesukladnosti" style="
         max-width: 45%;
         height: auto;
     ">
