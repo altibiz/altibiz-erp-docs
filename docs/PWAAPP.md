@@ -10,7 +10,8 @@
 
 **<p align=center>Link za preuzimanje: <a href="https://odobravanje.helb.hr:3501/app/">https://odobravanje.helb.hr:3501/app/</a></p>**  
 
-1. **Prijava**
+## <p align=center>**1. Prijava**</p>
+
 <img src="../images/login.jpg"
     alt="Prijava"
     style="display: block;
@@ -25,8 +26,9 @@ Elementi ekrana: "Korisničko ime" i "Lozinka" za prijavu korisnika.
 Primjer:  helbnet\KorisnickoIme
 
 
+## <p align=center>**2. Moja posjetnica**</p>
 
-2. **Moja posjetnica**
+
 <img src="../images/posjetnica.jpg"
     alt="Moja posjetnica"
     style="display: block;
@@ -39,8 +41,9 @@ Primjer:  helbnet\KorisnickoIme
 QR kod: Sadrži kodirane kontakt podatke korisnika. Skreniranjem tog koda odmah se može spremiti kontakt  u mobitel
 Prikaz kontakt podataka: Ime, prezimem telefonski broj i email. 
 
+## <p align=center>**3. Telefonski imenik**</p>
 
-3. **Telefonski imenik**
+
 <img src="../images/telefonski.jpg"
     alt="Telefonski imenik"
     style="display: block;
@@ -57,7 +60,9 @@ Ikona strelice (ili klik na redak/ime): Vodi na detaljniji prikaz kontakta (Br. 
  
 
 
-4. **Radni sati**
+
+## <p align=center>**4. Radni sati**</p>
+
 <img src="../images/radnoV.jpg"
     alt="Radni sati"
     style="display: block;
@@ -76,7 +81,8 @@ Prekidač "Odobreno": Indikator statusa odobrenja unosa.
 Gumb "Predaj": Za spremanje i slanje unesenih podataka.
  
 
-5. **Odobrenja (za voditelje)**
+## <p align=center>**5. Odobrenja (za voditelje)**</p>
+
 <div style="
     display: flex;
     justify-content: center;
@@ -104,10 +110,19 @@ Klik na zapis002FIkona strelice: Vodi na detaljniji prikaz pojedinog zahtjeva za
 
 
 
-6. **Radni nalozi**
+## <p align=center>**6. Radni nalozi**</p>
+
+<img src="../images/radniNalog.png"
+    alt="Radni sati"
+    style="display: block;
+            margin-left: auto;
+            margin-right: auto;" 
+/>
+
 Ova funkcionalnost je ključna za upravljanje radnim nalozima. Omogućuje pregled, kreiranje i praćenje statusa radnih naloga.
 
-7. **Nesukladnosti (za detalje konzultirati Nenada)**
+## <p align=center>**7. Nesukladnosti**</p>
+
 <div style="
     display: flex;
     justify-content: center;
