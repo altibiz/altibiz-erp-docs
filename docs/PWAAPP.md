@@ -1,5 +1,12 @@
 # Sučelje ERP/DMS sustava Altibiz za mobilne uređaje
 
+<style>
+.md-typeset img, .md-typeset svg, .md-typeset video {
+    height: auto;
+    max-width: 100%;
+    max-width: 270px;
+}
+</style>
 
 **<p align=center>Link za preuzimanje: <a href="https://odobravanje.helb.hr:3501/app/">https://odobravanje.helb.hr:3501/app/</a></p>**  
 
@@ -21,7 +28,7 @@ Primjer:  helbnet\KorisnickoIme
 
 2. **Moja posjetnica**
 <img src="../images/posjetnica.jpg"
-    alt="Prijava"
+    alt="Moja posjetnica"
     style="display: block;
             margin-left: auto;
             margin-right: auto;" 
@@ -35,7 +42,7 @@ Prikaz kontakt podataka: Ime, prezimem telefonski broj i email. 
 
 3. **Telefonski imenik**
 <img src="../images/telefonski.jpg"
-    alt="Prijava"
+    alt="Telefonski imenik"
     style="display: block;
             margin-left: auto;
             margin-right: auto;" 
@@ -52,7 +59,7 @@ Ikona strelice (ili klik na redak/ime): Vodi na detaljniji prikaz kontakta (Br. 
 
 4. **Radni sati**
 <img src="../images/radnoV.jpg"
-    alt="Prijava"
+    alt="Radni sati"
     style="display: block;
             margin-left: auto;
             margin-right: auto;" 
@@ -69,18 +76,23 @@ Prekidač "Odobreno": Indikator statusa odobrenja unosa.
 Gumb "Predaj": Za spremanje i slanje unesenih podataka.
  
 5. **Odobrenja (za voditelje)**
-<img src="../images/odobrenja.jpg"
-    alt="Prijava"
-    style="display: block;
-            margin-left: auto;
-            margin-right: auto;" 
-/>
-<img src="../images/odobrenje.jpg"
-    alt="Prijava"
-    style="display: block;
-            margin-left: auto;
-            margin-right: auto;" 
-/>
+<div style="
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    gap: 20px; /* razmak između slika */
+">
+    <img src="../images/odobrenja.jpg" alt="Odobrenja" style="
+        max-width: 45%; /* prilagođava širinu slike */
+        height: auto;
+    ">
+    <img src="../images/odobrenje.jpg" alt="Odobrenja" style="
+        max-width: 45%;
+        height: auto;
+    ">
+</div>
+
 Funkcionalnost "Odobrenja" namijenjena je voditeljima i omogućuje im pregled i upravljanje zahtjevima za odobrenje, poput radnih naloga, kalkulacija ili drugih dokumenata.
 Tabovi "U čekanju" i "Riješeno": Za filtriranje zahtjeva po statusu.
 
@@ -95,18 +107,24 @@ Klik na zapis002FIkona strelice: Vodi na detaljniji prikaz pojedinog zahtjeva za
 Ova funkcionalnost je ključna za upravljanje radnim nalozima. Omogućuje pregled, kreiranje i praćenje statusa radnih naloga.
 
 7. **Nesukladnosti (za detalje konzultirati Nenada)**
-<img src="../images/nesukladnosti.png"
-    alt="Prijava"
-    style="display: block;
-            margin-left: auto;
-            margin-right: auto;" 
-/>
-<img src="../images/nesukladnostiUnos.png"
-    alt="Prijava"
-    style="display: block;
-            margin-left: auto;
-            margin-right: auto;" 
-/>
+<div style="
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    gap: 20px; /* razmak između slika */
+">
+    <img src="../images/nesukladnosti.jpg" alt="Nesukladnosti" style="
+        max-width: 45%; /* prilagođava širinu slike */
+        height: auto;
+    ">
+    <img src="../images/nesukladnostUnos.jpg" alt="Nesukladnosti" style="
+        max-width: 45%;
+        height: auto;
+    ">
+</div>
+
+
 Funkcionalnost "Nesukladnosti" služi za evidentiranje, praćenje i rješavanje svih uočenih nesukladnosti unutar poslovnih procesa.
 
 
