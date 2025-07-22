@@ -1,4 +1,4 @@
-# Sučelje ERP/DMS sustava Altibiz za mobilne uređaje
+# Altibiz za mobilne uređaje
 
 <style>
 .md-typeset img, .md-typeset svg, .md-typeset video {
