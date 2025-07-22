@@ -1,21 +1,15 @@
-# Sučelje ERP/DMS sustava
+# ERP/DMS sustav
 
 <style>
 .md-typeset img, .md-typeset svg, .md-typeset video {
     height: auto;
     max-width: 100%;
-    max-width: 270px;
+    max-width: 100%;
 }
 </style>
 
 ## <p align=center>**DMS sustav**</p>
 
-<img src="../images/login.jpg"
-    alt="Prijava"
-    style="display: block;
-            margin-left: auto;
-            margin-right: auto;" 
-/>
 
 <p>
     U AltiBiz programu dodali smo DMS sustav i podesili na način kako trenutno funkcionira kako  bismo bolje organizirali dokumente, zaštitili važne informacije te usmjerili pristupanje datotekama isključivo kroz DMS u Altibizu (da se ne koristi File Explorer). Svi folderi u glavnom dijelu projekta dodaju se isključivo kroz AltiBiz sustav a sve kako bi imali uniformnost - da svi sve dokumente spremaju na isti način i na ista mjesta u bazi projekata". Ova uputstva objašnjavaju kako to funkcionira i kako koristiti DMS.
