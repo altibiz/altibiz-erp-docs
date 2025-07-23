@@ -141,7 +141,7 @@ Ova funkcionalnost je ključna za upravljanje radnim nalozima. Omogućuje pregle
 </div>
 
 
-Funkcionalnost "Nesukladnosti" služi za evidentiranje, praćenje uočenih nesukladnosti unutar poslovnih procesa.
+Funkcionalnost "Nesukladnosti" služi za evidentiranje i praćenje uočenih nesukladnosti unutar poslovnih procesa.
 
-
-
+Za unos nove nesukladnosti, pritisnite gumb "Plus" pri dnu zaslona i popunite potrebne podatke.
+Kada želite dodati sliku u prijavu, kliknite na gumb "Učitaj novu". Tada imate dvije opcije: možete odabrati već postojeću sliku iz svoje galerije ili uslikati novu fotografiju izravno putem aplikacije.

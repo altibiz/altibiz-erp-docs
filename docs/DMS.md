@@ -55,13 +55,24 @@ Ne možete sami smišljati nazive foldera za glavni dio – samo oni iz popisa s
             margin-right: auto;" 
 />
 
-**Kopiranje u DMS možemo napraviti na 3 načina:**
-<br/>
+**Dokumente u DMS (Document Management System) možete kopirati na tri jednostavna načina:**
 
-**1. Klikanje po meniju**: Desni klik na dokument koji želimo kopirati, kliknuti "Kopiraj" u izborniku, zatim u AltiBizu na nekom projektu u tabu "Datoteke", desni klik na odredišnu mapu i odabrati "Zalijepi". Također može se samo u lijevom dijelu selektirati mapu u koju želimo kopirat, a u desnom dijelu desni klik i zalijepi.
-<br/>
+**1. Korištenje kontekstnog izbornika (desni klik)**
+**Kopiranje**: Desnom tipkom miša kliknite na dokument koji želite kopirati i u izborniku odaberite opciju "Kopiraj".
 
-**2. Copy-Paste preko tipkovnice**: Označite dokument ili njegov dio, pritisnite Ctrl+C za kopiranje, zatim u AltiBizu na nekom projektu u tabu datoteke odaberemo Folder u koji želimo zalijepiti fajl  i Ctrl+V kako bi zaljepili fajl.
-<br/>
+**Lijepljenje**: U AltiBizu, unutar željenog projekta i taba "Datoteke", desnom tipkom miša kliknite na odredišnu mapu i odaberite "Zalijepi".
+Alternativno, možete u lijevoj strani sučelja odabrati mapu u koju želite kopirati, a zatim desnom tipkom miša kliknuti unutar desnog dijela i odabrati "Zalijepi".
 
-**3. Drag and Drop**: U AltiBizu odemo na neki projekt u tab "Datoteke" i odaberemo folder u koji želimo nešto kopirati. Pronađite dokument koji hoćete staviti u DMS i odvucite dokument mišem (lijevi klik i držanje) sa te lokacije i ispustite ga u altibizu na selektiranoj lokaciji.
+**2. Prečaci na tipkovnici (Ctrl+C i Ctrl+V)**
+**Kopiranje**: Odaberite dokument, a zatim pritisnite tipke Ctrl+C (za kopiranje).
+
+**Lijepljenje**: U AltiBizu, unutar željenog projekta i taba "Datoteke", odaberite odredišnu mapu. Zatim pritisnite tipke Ctrl+V (za lijepljenje) kako biste datoteku zalijepili.
+
+**3. Povlačenje i ispuštanje (Drag and Drop)**
+U AltiBizu otvorite željeni projekt i tab "Datoteke" te odaberite mapu u koju želite kopirati dokument.
+
+Pronađite dokument na svom računalu koji želite prebaciti u DMS.
+
+Lijevom tipkom miša kliknite na dokument, držite tipku pritisnutu i povucite (drag) ga do odabrane lokacije u AltiBizu.
+
+Otpustite (drop) tipku miša kako biste dokument premjestili u DMS.
