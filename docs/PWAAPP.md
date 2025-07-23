@@ -100,12 +100,12 @@ Gumb "Predaj": Za spremanje i slanje unesenih podataka.
     ">
 </div>
 
-Funkcionalnost "Odobrenja" namijenjena je voditeljima i omogućuje im pregled i upravljanje zahtjevima za odobrenje, poput radnih naloga, kalkulacija ili drugih dokumenata.
+Funkcionalnost "Odobrenja" namijenjena je voditeljima i omogućuje im pregled i upravljanje zahtjevima za odobrenje, poput kalkulacija, zahtjeva za nabavku, radnih naloga i slično.
 Tabovi "U čekanju" i "Riješeno": Za filtriranje zahtjeva po statusu.
 
 Polje za pretraživanje ("Projekt"): Za pretraživanje odobrenja po projektu.
 Popis zahtjeva: Prikazuje naslove zahtjeva, status (npr. "Odbijeno", "Zahtjev za odobrenjem") i vremenski okvir (npr. "Prije 13 tjedana").
-Klik na zapis002FIkona strelice: Vodi na detaljniji prikaz pojedinog zahtjeva za odobrenje.
+Klik na zapis: Vodi na detaljniji prikaz pojedinog zahtjeva za odobrenje.
  
 
 
@@ -141,7 +141,7 @@ Ova funkcionalnost je ključna za upravljanje radnim nalozima. Omogućuje pregle
 </div>
 
 
-Funkcionalnost "Nesukladnosti" služi za evidentiranje, praćenje i rješavanje svih uočenih nesukladnosti unutar poslovnih procesa.
+Funkcionalnost "Nesukladnosti" služi za evidentiranje, praćenje uočenih nesukladnosti unutar poslovnih procesa.
 
 
 
