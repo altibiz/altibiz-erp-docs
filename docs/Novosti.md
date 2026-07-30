@@ -1,6 +1,6 @@
 # Novosti u verzijama
 
-## Verzija 2.9.23 (30. srpnja 2026.)
+## Verzija 2.10.0 (30. srpnja 2026.)
 
 ### Mjesto i adresa isporuke na dokumentima nabave
 
@@ -47,4 +47,4 @@ Ove promjene ne mijenjaju način rada u aplikaciji:
 
 **Migracije baze:** Erp `_055`–`_059`, 247 `_055`–`_056`.
 
-Potpuni popis promjena: [v2.9.22...v2.9.23](https://github.com/altibiz/altibiz-erp/compare/v2.9.22...v2.9.23)
+Potpuni popis promjena: [v2.9.22...v2.10.0](https://github.com/altibiz/altibiz-erp/compare/v2.9.22...v2.10.0)
