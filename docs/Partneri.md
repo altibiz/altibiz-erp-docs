@@ -116,5 +116,40 @@ Neki partneri mogu imati račune u više različitih banaka tako da ukoliko part
     <font size="2">Spajanje partnera.pdf</font>
 </a>
 
+<br></br>
+- - -
+
+### <p align=center>**Pravni sljednik (pripajanje partnera)**
+
+**<p align=center>Put: Poslovanje → Resursi → Partneri → (otvoriti partnera)**
+
+**<p align=center><span style="color: #ff5630">Pravni sljednik se koristi kada se jedan partner pripoji drugom (npr. tvrtka A se pripoji tvrtki B). Za razliku od spajanja partnera, stari partner se NE briše.</span></p>**
+
+
+1. Otvorimo partnera koji prestaje postojati (pripojeni partner)
+
+2. **PRAVNI SLJEDNIK**  
+Iz padajućeg izbornika odaberemo partnera kojem stari partner bude pripojen
+
+3. **DATUM PRIPAJANJA**  
+Upišemo datum od kojeg vrijedi pripajanje  
+Polja "Pravni sljednik" i "Datum pripajanja" moraju biti popunjena zajedno (ili oba prazna)
+
+4. Spremimo partnera
+
+5. **PRAVNI PRETHODNICI**  
+Na partneru sljedniku se u polju "Pravni prethodnici" automatski prikazuju svi partneri koji su mu pripojeni
+
+**Što se događa nakon pripajanja:**
+- Kontakt osobe starog partnera se kod spremanja dodaju partneru sljedniku
+- Nakon datuma pripajanja stari partner se u padajućim izbornicima prikazuje kao "Stari partner (TRENUTNO: Novi partner)"
+- Novi računi na projektima starog partnera s datumom jednakim ili većim od datuma pripajanja automatski dobivaju partnera sljednika
+- Ponude, leadovi, gradilišta i kalkulacije koriste partnera koji je važeći na datum dokumenta
+- Ako je i sljednik kasnije pripojen nekom trećem partneru, sustav koristi zadnjeg u nizu
+
+<p align=center> * <span style="color:#ff5630">Polja "Pravni sljednik" i "Datum pripajanja" mogu mijenjati samo korisnici s pravom "LegalSuccessor_Edit"</span> *</p>
+
+<p align=center> * <span style="color:#ff5630">Podaci starog partnera ostaju na svim dokumentima izdanim prije datuma pripajanja, a projekti ostaju vezani za starog partnera</span> *</p>
+
 
 <br></br><br></br>
